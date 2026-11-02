@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "Clostridioides difficile prophage census: derived data and analysis code for a census of 241 complete genomes"
+type: dataset
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2026-11-02
+repository-code: "https://github.com/TanyuDSG/cdifficile-prophage-census"
+keywords:
+  - Clostridioides difficile
+  - prophage
+  - bacteriophage
+  - comparative genomics
+  - defence systems
+  - mobile genetic elements

@@ -1,0 +1,15 @@
+{
+  "title": "Clostridioides difficile prophage census: derived data and analysis code for a census of 241 complete genomes",
+  "description": "Derived tables, prophage nucleotide sequences, figure sources and analysis code accompanying the manuscript 'Species-wide prophage diversity and defence-cargo enrichment in Clostridioides difficile: a census of 241 complete genomes' (submitted to Microbial Genomics). The dataset comprises 241 complete RefSeq genomes, 399 primary-catalogue prophage regions in 130 nucleotide clusters, 1,447 protein families and the associated statistics.",
+  "upload_type": "dataset",
+  "keywords": [
+    "Clostridioides difficile",
+    "prophage",
+    "bacteriophage",
+    "comparative genomics",
+    "defence systems",
+    "mobile genetic elements"
+  ],
+  "license": "CC-BY-4.0",
+  "access_right": "open"
+}
