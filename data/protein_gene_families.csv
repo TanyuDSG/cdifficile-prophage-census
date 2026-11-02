@@ -1,0 +1,1448 @@
+gene_family,n_proteins,n_prophages,n_genomes,n_clades,n_nucleotide_clusters,representative_product,categories,has_defence,has_virulence,has_amr,has_mge,has_phage_core
+GF01056,261,260,172,5,81,phage holin family protein,phage_core,0,0,0,0,1
+GF00906,238,238,167,5,71,hypothetical protein,other,0,0,0,0,0
+GF00434,241,237,165,5,72,phage terminase small subunit,phage_core,0,0,0,0,1
+GF00102,224,220,166,5,67,minor capsid protein,phage_core,0,0,0,0,1
+GF00118,390,219,165,5,66,YmfQ family protein,phage_core,0,0,0,0,1
+GF00876,219,219,165,5,65,hypothetical protein,other,0,0,0,0,0
+GF01280,219,219,165,5,65,hypothetical protein,other,0,0,0,0,0
+GF00155,218,218,165,5,64,phage tail sheath family protein,phage_core,0,0,0,0,1
+GF00244,218,216,165,5,63,baseplate J/gp47 family protein,phage_core,0,0,0,0,1
+GF00773,216,216,165,5,63,DUF2634 domain-containing protein,other,0,0,0,0,0
+GF01042,216,216,165,5,63,DUF2577 domain-containing protein,other,0,0,0,0,0
+GF00743,212,212,160,5,63,phage tail terminator family protein,phage_core,0,0,0,0,1
+GF00801,183,183,152,5,50,hypothetical protein,other,0,0,0,0,0
+GF00361,183,183,132,5,58,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00317,182,182,152,5,49,phage capsid protein,phage_core,0,0,0,0,1
+GF01007,182,182,152,5,49,hypothetical protein,other,0,0,0,0,0
+GF00591,181,181,152,5,48,phage scaffolding protein,other,0,0,0,0,0
+GF00114,179,179,151,5,48,phage portal protein,phage_core,0,0,0,0,1
+GF00560,172,172,154,5,42,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00682,163,163,119,5,61,phage tail tube protein,phage_core,0,0,0,0,1
+GF00479,161,160,134,4,48,LysM peptidoglycan-binding domain-containing protein,other,0,0,0,0,0
+GF01350,156,156,138,5,43,type I toxin-antitoxin system toxin,defence,1,0,0,0,0
+GF00641,158,156,106,5,62,RusA family crossover junction endodeoxyribonuclease,other,0,0,0,0,0
+GF01287,153,152,104,5,56,hypothetical protein,other,0,0,0,0,0
+GF00327,168,151,142,5,35,BRO-N domain-containing protein,other,0,0,0,0,0
+GF01228,147,147,122,5,43,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00255,147,147,96,5,46,phage tail protein,phage_core,0,0,0,0,1
+GF01127,143,142,107,5,62,hemolysin XhlA family protein,virulence;phage_core,0,1,0,0,1
+GF00199,143,142,122,4,40,site-specific integrase,other,0,0,0,0,0
+GF00209,130,130,98,5,55,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00263,125,125,94,5,52,nucleoid-associated protein,other,0,0,0,0,0
+GF01338,123,123,118,4,27,hypothetical protein,other,0,0,0,0,0
+GF01009,120,120,105,4,24,hypothetical protein,other,0,0,0,0,0
+GF00065,119,118,90,4,37,glycine rich domain-containing protein,other,0,0,0,0,0
+GF00057,117,117,115,4,25,XkdQ/YqbQ family protein,other,0,0,0,0,0
+GF01354,112,112,82,4,48,hypothetical protein,other,0,0,0,0,0
+GF00224,111,111,104,4,32,phage tail protein,phage_core,0,0,0,0,1
+GF00643,112,110,82,5,49,siphovirus Gp157 family protein,other,0,0,0,0,0
+GF00837,110,108,83,4,46,hypothetical protein,other,0,0,0,0,0
+GF00566,106,106,89,4,22,hypothetical protein,other,0,0,0,0,0
+GF01288,102,102,96,5,30,hypothetical protein,other,0,0,0,0,0
+GF00819,101,101,101,3,21,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00281,100,99,72,5,41,DnaD domain-containing protein,other,0,0,0,0,0
+GF00049,100,97,82,5,40,C40 family peptidase,other,0,0,0,0,0
+GF00652,97,97,97,3,20,ImmA/IrrE family metallo-endopeptidase,other,0,0,0,0,0
+GF00674,96,96,96,4,18,sigma factor-like helix-turn-helix DNA-binding protein,other,0,0,0,0,0
+GF01355,95,95,80,4,38,type I toxin-antitoxin system toxin,defence,1,0,0,0,0
+GF00409,94,94,94,5,23,DUF4428 domain-containing protein,other,0,0,0,0,0
+GF01327,94,94,74,5,42,hypothetical protein,other,0,0,0,0,0
+GF00667,94,94,68,4,35,hypothetical protein,other,0,0,0,0,0
+GF00023,93,92,88,5,20,tape measure protein,phage_core,0,0,0,0,1
+GF00381,93,91,76,5,36,ORF6N domain-containing protein,other,0,0,0,0,0
+GF00517,91,91,70,5,40,ERF family protein,other,0,0,0,0,0
+GF00391,90,90,89,3,14,hypothetical protein,other,0,0,0,0,0
+GF01010,90,90,89,3,14,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF01307,86,86,68,5,43,hypothetical protein,other,0,0,0,0,0
+GF01265,101,85,85,5,19,hypothetical protein,other,0,0,0,0,0
+GF01084,85,85,73,5,30,hypothetical protein,other,0,0,0,0,0
+GF00780,84,84,67,5,39,single-stranded DNA-binding protein,other,0,0,0,0,0
+GF01308,80,80,65,5,33,hypothetical protein,other,0,0,0,0,0
+GF00045,78,78,78,3,16,thioredoxin domain-containing protein,other,0,0,0,0,0
+GF00176,78,78,78,3,16,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00289,78,78,78,3,16,alpha/beta fold hydrolase,other,0,0,0,0,0
+GF00492,78,78,78,3,16,manganese catalase family protein,other,0,0,0,0,0
+GF00588,78,78,78,3,16,MarR family winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01409,78,78,78,3,14,hypothetical protein,other,0,0,0,0,0
+GF01431,79,78,78,3,15,hypothetical protein,other,0,0,0,0,0
+GF00858,78,78,66,2,31,hypothetical protein,other,0,0,0,0,0
+GF00071,77,77,59,5,18,XkdQ/YqbQ family protein,other,0,0,0,0,0
+GF00749,77,77,59,5,18,DUF2634 domain-containing protein,other,0,0,0,0,0
+GF00935,77,77,59,5,18,DUF2577 family protein,other,0,0,0,0,0
+GF00598,78,76,70,5,24,zinc ribbon domain-containing protein,other,0,0,0,0,0
+GF00515,76,76,59,5,17,LysM peptidoglycan-binding domain-containing protein,phage_core,0,0,0,0,1
+GF01281,77,76,76,3,14,hypothetical protein,defence,1,0,0,0,0
+GF00481,75,75,70,4,29,BRO-N domain-containing protein,other,0,0,0,0,0
+GF00628,74,74,74,5,16,DUF4352 domain-containing protein,other,0,0,0,0,0
+GF00241,76,74,57,5,18,baseplate J/gp47 family protein,phage_core,0,0,0,0,1
+GF00323,85,74,56,5,26,ORF6C domain-containing protein,other,0,0,0,0,0
+GF00075,74,74,64,4,25,glycine rich domain-containing protein,other,0,0,0,0,0
+GF01215,74,74,67,3,25,hypothetical protein,other,0,0,0,0,0
+GF00867,75,74,52,3,30,hypothetical protein,other,0,0,0,0,0
+GF00879,73,73,53,5,35,hypothetical protein,other,0,0,0,0,0
+GF00547,73,72,71,4,18,XRE family transcriptional regulator,other,0,0,0,0,0
+GF01138,71,71,60,5,34,hypothetical protein,other,0,0,0,0,0
+GF00028,71,71,71,3,11,cell wall-binding repeat-containing protein,other,0,0,0,0,0
+GF01086,70,70,67,4,13,hypothetical protein,other,0,0,0,0,0
+GF00029,68,68,58,4,26,tape measure protein,phage_core,0,0,0,0,1
+GF00270,68,68,68,3,8,hypothetical protein,other,0,0,0,0,0
+GF00648,68,68,68,3,8,hypothetical protein,other,0,0,0,0,0
+GF00653,67,67,60,5,31,hypothetical protein,other,0,0,0,0,0
+GF01320,67,67,59,5,21,hypothetical protein,other,0,0,0,0,0
+GF01185,66,66,66,3,7,hypothetical protein,other,0,0,0,0,0
+GF00138,65,65,65,4,11,DEAD/DEAH box helicase,other,0,0,0,0,0
+GF00854,65,65,65,3,6,DUF6173 family protein,other,0,0,0,0,0
+GF00027,62,62,62,3,11,virulence-associated E family protein,other,0,0,0,0,0
+GF00050,62,62,62,3,11,DNA polymerase,other,0,0,0,0,0
+GF00198,62,62,62,3,11,DUF2800 domain-containing protein,other,0,0,0,0,0
+GF00581,62,62,62,3,11,sigma factor,other,0,0,0,0,0
+GF00582,62,62,62,3,11,DUF2815 family protein,other,0,0,0,0,0
+GF00744,62,62,62,3,11,hypothetical protein,other,0,0,0,0,0
+GF00948,62,62,62,3,11,VRR-NUC domain-containing protein,other,0,0,0,0,0
+GF00683,61,61,50,5,29,hypothetical protein,other,0,0,0,0,0
+GF01267,61,61,53,2,26,hypothetical protein,other,0,0,0,0,0
+GF00221,60,60,52,5,36,site-specific integrase,other,0,0,0,0,0
+GF01151,60,60,50,5,30,hypothetical protein,other,0,0,0,0,0
+GF00343,60,60,60,3,10,Abi family protein,other,0,0,0,0,0
+GF00966,59,59,51,4,30,hypothetical protein,other,0,0,0,0,0
+GF00367,66,59,59,3,8,phage antirepressor,other,0,0,0,0,0
+GF01420,59,59,46,3,21,hypothetical protein,other,0,0,0,0,0
+GF01328,58,58,56,2,16,hypothetical protein,other,0,0,0,0,0
+GF01222,57,57,51,5,33,hypothetical protein,other,0,0,0,0,0
+GF01021,57,57,53,4,30,hypothetical protein,other,0,0,0,0,0
+GF00397,75,57,52,4,26,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00480,57,57,46,4,20,LysM peptidoglycan-binding domain-containing protein,other,0,0,0,0,0
+GF01412,56,56,45,5,29,XkdX family protein,other,0,0,0,0,0
+GF00035,56,56,56,4,25,tape measure protein,phage_core,0,0,0,0,1
+GF00929,55,55,55,3,6,hypothetical protein,other,0,0,0,0,0
+GF00232,56,55,42,3,24,DNA cytosine methyltransferase,other,0,0,0,0,0
+GF00538,54,54,44,5,26,hypothetical protein,other,0,0,0,0,0
+GF01273,54,54,44,5,26,hypothetical protein,other,0,0,0,0,0
+GF00679,54,54,52,3,4,phage tail tube protein,phage_core,0,0,0,0,1
+GF00639,53,53,46,5,29,hypothetical protein,other,0,0,0,0,0
+GF01306,55,53,53,4,13,hypothetical protein,other,0,0,0,0,0
+GF00100,53,53,50,3,6,hypothetical protein,other,0,0,0,0,0
+GF00941,52,52,44,5,19,hypothetical protein,other,0,0,0,0,0
+GF00911,52,52,42,4,20,peptide chain release factor family protein,other,0,0,0,0,0
+GF00292,57,51,50,4,17,DnaD domain protein,other,0,0,0,0,0
+GF00126,51,51,49,4,21,phage tail sheath subtilisin-like domain-containing protein,phage_core,0,0,0,0,1
+GF00272,51,51,49,4,21,XkdQ/YqbQ family protein,other,0,0,0,0,0
+GF00372,51,51,49,4,21,hypothetical protein,other,0,0,0,0,0
+GF00494,51,51,49,4,21,LysM peptidoglycan-binding domain-containing protein,other,0,0,0,0,0
+GF00697,51,51,49,4,21,DUF2634 domain-containing protein,other,0,0,0,0,0
+GF00723,51,51,49,4,21,hypothetical protein,other,0,0,0,0,0
+GF00868,51,51,49,4,21,hypothetical protein,other,0,0,0,0,0
+GF01177,51,51,49,4,21,hypothetical protein,other,0,0,0,0,0
+GF00940,51,51,44,4,31,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01367,51,51,50,3,7,hypothetical protein,other,0,0,0,0,0
+GF00551,51,51,41,2,21,ERF family protein,other,0,0,0,0,0
+GF00955,49,49,38,5,26,hypothetical protein,other,0,0,0,0,0
+GF00661,49,49,47,4,20,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00610,49,49,49,3,7,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01184,49,49,40,3,20,hypothetical protein,other,0,0,0,0,0
+GF01129,48,48,44,5,23,hypothetical protein,other,0,0,0,0,0
+GF00985,50,48,39,4,16,hypothetical protein,other,0,0,0,0,0
+GF00775,48,48,47,3,13,single-stranded DNA-binding protein,other,0,0,0,0,0
+GF00739,47,47,46,4,24,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF01211,47,47,42,4,20,Arc family DNA-binding protein,defence,1,0,0,0,0
+GF01207,47,47,39,4,19,hypothetical protein,other,0,0,0,0,0
+GF00539,47,47,36,4,10,putative phage tail protein,phage_core,0,0,0,0,1
+GF00848,47,47,45,3,23,hypothetical protein,other,0,0,0,0,0
+GF01415,46,46,42,4,20,hypothetical protein,other,0,0,0,0,0
+GF00213,46,46,45,3,18,baseplate J/gp47 family protein,phage_core,0,0,0,0,1
+GF00755,46,46,40,3,18,phage holin family protein,phage_core,0,0,0,0,1
+GF00454,45,45,38,3,24,antA/AntB antirepressor family protein,other,0,0,0,0,0
+GF01054,44,44,44,4,15,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01302,44,44,39,4,17,hypothetical protein,defence,1,0,0,0,0
+GF01079,43,43,38,4,23,hypothetical protein,other,0,0,0,0,0
+GF01026,43,43,41,3,14,hypothetical protein,other,0,0,0,0,0
+GF00463,43,43,37,3,15,phosphoadenosine phosphosulfate reductase family protein,other,0,0,0,0,0
+GF01326,42,42,34,4,19,DUF3797 domain-containing protein,other,0,0,0,0,0
+GF00429,42,42,40,3,17,putative phage tail protein,phage_core,0,0,0,0,1
+GF00330,42,42,36,3,20,phage tail protein,phage_core,0,0,0,0,1
+GF00351,42,42,32,3,20,ORF6C domain-containing protein,other,0,0,0,0,0
+GF01369,42,42,42,2,11,hypothetical protein,other,0,0,0,0,0
+GF00370,42,42,42,1,1,hypothetical protein,other,0,0,0,0,0
+GF00715,42,42,42,1,1,phage antirepressor,other,0,0,0,0,0
+GF01152,41,41,40,4,18,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01203,41,41,41,2,2,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00335,41,41,41,1,1,HipA domain-containing protein,other,0,0,0,0,0
+GF00473,41,41,41,1,1,HIRAN domain-containing protein,other,0,0,0,0,0
+GF00526,44,40,37,5,21,hypothetical protein,other,0,0,0,0,0
+GF00310,40,40,36,5,17,phage tail protein,phage_core,0,0,0,0,1
+GF00729,40,40,39,4,20,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00592,40,40,40,2,13,XRE family transcriptional regulator,other,0,0,0,0,0
+GF01098,40,40,37,2,8,hypothetical protein,other,0,0,0,0,0
+GF01163,39,39,38,3,14,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00654,38,38,33,4,20,hypothetical protein,other,0,0,0,0,0
+GF00338,39,38,32,4,18,hypothetical protein,other,0,0,0,0,0
+GF00802,38,38,32,4,24,type II toxin-antitoxin system HicB family antitoxin,defence,1,0,0,0,0
+GF01279,38,38,32,2,15,hypothetical protein,other,0,0,0,0,0
+GF00116,37,37,34,4,16,phage portal protein,phage_core,0,0,0,0,1
+GF00905,37,37,34,4,16,phage head-tail connector protein,phage_core,0,0,0,0,1
+GF01332,37,37,32,3,15,hypothetical protein,other,0,0,0,0,0
+GF01411,37,37,32,3,15,ribbon-helix-helix domain-containing protein,other,0,0,0,0,0
+GF00332,37,37,35,2,13,phage regulatory protein/antirepressor Ant,other,0,0,0,0,0
+GF01342,38,36,35,5,22,Arc family DNA-binding protein,other,0,0,0,0,0
+GF00258,36,36,34,4,15,major capsid protein,phage_core,0,0,0,0,1
+GF00847,36,36,34,4,15,hypothetical protein,other,0,0,0,0,0
+GF00456,36,36,36,3,6,"head maturation protease, ClpP-related",other,0,0,0,0,0
+GF00978,36,36,32,3,14,hypothetical protein,other,0,0,0,0,0
+GF00965,36,36,28,3,13,hypothetical protein,other,0,0,0,0,0
+GF01263,36,36,28,3,13,hypothetical protein,other,0,0,0,0,0
+GF01167,35,35,35,4,18,hypothetical protein,other,0,0,0,0,0
+GF00711,35,35,34,4,14,hypothetical protein,MGE,0,0,0,1,0
+GF01106,35,35,34,3,13,hypothetical protein,other,0,0,0,0,0
+GF00673,34,34,30,4,15,hypothetical protein,other,0,0,0,0,0
+GF00010,41,34,33,3,15,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00565,34,34,33,3,15,phage scaffolding protein,other,0,0,0,0,0
+GF01137,34,34,27,2,12,hypothetical protein,other,0,0,0,0,0
+GF00949,33,33,33,4,2,hypothetical protein,other,0,0,0,0,0
+GF00443,33,33,32,3,13,BRO-N domain-containing protein,other,0,0,0,0,0
+GF00486,33,33,28,3,15,hypothetical protein,other,0,0,0,0,0
+GF00238,32,32,32,4,4,phage tail sheath subtilisin-like domain-containing protein,phage_core,0,0,0,0,1
+GF01365,32,32,30,4,13,hypothetical protein,other,0,0,0,0,0
+GF00644,32,32,27,4,22,hypothetical protein,other,0,0,0,0,0
+GF01241,32,32,30,3,12,hypothetical protein,other,0,0,0,0,0
+GF01000,31,31,28,5,13,hypothetical protein,other,0,0,0,0,0
+GF00108,31,31,26,4,7,hypothetical protein,other,0,0,0,0,0
+GF00088,31,31,31,3,3,terminase large subunit,phage_core,0,0,0,0,1
+GF00160,31,31,31,3,3,phage major capsid protein,phage_core,0,0,0,0,1
+GF00205,31,31,31,3,3,phage portal protein,phage_core,0,0,0,0,1
+GF00235,31,31,31,3,3,phage tail sheath C-terminal domain-containing protein,phage_core,0,0,0,0,1
+GF00300,31,31,31,3,2,hypothetical protein,other,0,0,0,0,0
+GF00435,31,31,31,3,2,minor capsid protein,phage_core,0,0,0,0,1
+GF00556,31,31,31,3,2,DUF4355 domain-containing protein,other,0,0,0,0,0
+GF00706,31,31,31,3,3,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00718,31,31,31,3,3,phage tail tube protein,phage_core,0,0,0,0,1
+GF00781,31,31,31,3,3,phage tail terminator family protein,phage_core,0,0,0,0,1
+GF00815,31,31,31,3,12,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00836,31,31,31,3,3,phage XkdN-like family protein,other,0,0,0,0,0
+GF00851,31,31,31,3,2,phage head-tail connector protein,phage_core,0,0,0,0,1
+GF00888,31,31,31,3,2,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00908,31,31,31,3,2,hypothetical protein,other,0,0,0,0,0
+GF00922,31,31,31,3,3,phage head closure protein,other,0,0,0,0,0
+GF01014,31,31,31,3,3,head-tail connector protein,phage_core,0,0,0,0,1
+GF01030,31,31,31,3,2,Rho termination factor N-terminal domain-containing protein,other,0,0,0,0,0
+GF01410,31,31,31,3,12,hypothetical protein,other,0,0,0,0,0
+GF01066,31,31,25,3,16,hypothetical protein,other,0,0,0,0,0
+GF00408,31,31,31,2,9,hypothetical protein,other,0,0,0,0,0
+GF00383,30,30,29,5,12,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00172,30,30,26,3,15,hypothetical protein,other,0,0,0,0,0
+GF00158,30,30,30,2,2,phage portal protein,phage_core,0,0,0,0,1
+GF01233,29,29,28,4,9,hypothetical protein,other,0,0,0,0,0
+GF00866,29,29,26,4,18,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00012,29,29,29,3,2,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00068,29,29,29,3,3,hypothetical protein,phage_core,0,0,0,0,1
+GF00552,29,29,29,3,5,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00693,29,29,29,3,2,phage tail terminator family protein,phage_core,0,0,0,0,1
+GF00738,29,29,29,3,2,phage tail tube protein,phage_core,0,0,0,0,1
+GF00782,29,29,29,3,2,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00824,29,29,29,3,3,hypothetical protein,other,0,0,0,0,0
+GF01230,29,29,28,3,16,hypothetical protein,other,0,0,0,0,0
+GF01159,29,29,27,3,14,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01168,29,29,27,3,14,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00485,28,28,27,4,9,putative phage tail protein,phage_core,0,0,0,0,1
+GF01004,28,28,28,3,4,HNH endonuclease,other,0,0,0,0,0
+GF01304,28,28,28,3,2,hypothetical protein,other,0,0,0,0,0
+GF01016,28,28,23,3,14,hypothetical protein,other,0,0,0,0,0
+GF00687,28,28,27,2,15,ImmA/IrrE family metallo-endopeptidase,other,0,0,0,0,0
+GF00769,28,28,27,2,11,phage tail tube protein,phage_core,0,0,0,0,1
+GF01386,27,27,25,5,12,hypothetical protein,other,0,0,0,0,0
+GF00380,27,27,23,4,16,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00850,27,27,25,3,11,phage tail-collar fiber domain-containing protein,phage_core,0,0,0,0,1
+GF00437,27,27,24,3,9,SHOCT domain-containing protein,other,0,0,0,0,0
+GF00137,27,27,26,2,15,recombinase family protein,other,0,0,0,0,0
+GF00107,27,27,26,1,11,phage portal protein,phage_core,0,0,0,0,1
+GF00131,27,27,26,1,11,DEAD/DEAH box helicase family protein,other,0,0,0,0,0
+GF00148,27,27,26,1,11,hypothetical protein,other,0,0,0,0,0
+GF00252,27,27,26,1,11,hypothetical protein,other,0,0,0,0,0
+GF00260,27,27,26,1,11,hypothetical protein,other,0,0,0,0,0
+GF00838,27,27,26,1,11,DUF2190 family protein,other,0,0,0,0,0
+GF00852,27,27,26,1,11,hypothetical protein,other,0,0,0,0,0
+GF00923,27,27,26,1,11,hypothetical protein,other,0,0,0,0,0
+GF01217,26,26,25,5,18,hypothetical protein,other,0,0,0,0,0
+GF00411,26,26,26,3,12,SHOCT domain-containing protein,other,0,0,0,0,0
+GF01158,26,26,22,3,8,hypothetical protein,other,0,0,0,0,0
+GF01199,26,26,20,3,12,DUF6877 family protein,other,0,0,0,0,0
+GF00072,26,26,26,2,2,hypothetical protein,other,0,0,0,0,0
+GF00511,26,26,26,2,2,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00704,26,26,26,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01309,26,26,26,2,9,hypothetical protein,other,0,0,0,0,0
+GF01433,26,26,26,2,9,hypothetical protein,other,0,0,0,0,0
+GF00632,26,26,24,2,6,hypothetical protein,other,0,0,0,0,0
+GF01078,25,25,23,4,13,hypothetical protein,other,0,0,0,0,0
+GF00701,25,25,25,3,13,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00503,25,25,24,3,10,BRO-N domain-containing protein,other,0,0,0,0,0
+GF01235,25,25,24,3,11,hypothetical protein,other,0,0,0,0,0
+GF00094,25,25,25,2,4,SIR2 family protein,other,0,0,0,0,0
+GF01162,25,25,25,2,8,hypothetical protein,other,0,0,0,0,0
+GF01266,25,25,25,2,1,hypothetical protein,other,0,0,0,0,0
+GF01132,25,25,22,2,19,ASCH/PUA domain-containing protein,other,0,0,0,0,0
+GF01034,25,25,21,2,9,hypothetical protein,other,0,0,0,0,0
+GF00091,24,24,23,4,10,hypothetical protein,other,0,0,0,0,0
+GF00103,24,24,23,4,10,phage portal protein,phage_core,0,0,0,0,1
+GF00243,24,24,23,4,10,major capsid protein,phage_core,0,0,0,0,1
+GF00501,24,24,23,4,10,phage scaffolding protein,other,0,0,0,0,0
+GF00839,24,24,23,4,10,hypothetical protein,other,0,0,0,0,0
+GF00968,24,24,23,4,10,hypothetical protein,other,0,0,0,0,0
+GF01196,24,24,23,4,10,DUF7210 family protein,other,0,0,0,0,0
+GF01337,24,24,23,4,10,hypothetical protein,other,0,0,0,0,0
+GF00087,25,24,24,3,6,"peptidoglycan D,D-transpeptidase FtsI family protein",other,0,0,0,0,0
+GF00104,24,24,24,3,6,recombinase family protein,other,0,0,0,0,0
+GF00151,24,24,24,3,6,pyrimidine-nucleoside phosphorylase,other,0,0,0,0,0
+GF00167,24,24,24,3,6,peptidase U32 family protein,other,0,0,0,0,0
+GF00196,24,24,24,3,6,phosphopentomutase,other,0,0,0,0,0
+GF00229,24,24,24,3,6,endolytic transglycosylase MltG,other,0,0,0,0,0
+GF00304,24,24,24,3,6,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00382,24,24,24,3,6,purine-nucleoside phosphorylase,other,0,0,0,0,0
+GF00493,24,24,24,3,6,O-methyltransferase,other,0,0,0,0,0
+GF00678,24,24,24,3,1,DUF4352 domain-containing protein,other,0,0,0,0,0
+GF01022,24,24,24,3,6,sigma-70 family RNA polymerase sigma factor,other,0,0,0,0,0
+GF01160,24,24,24,3,6,hypothetical protein,other,0,0,0,0,0
+GF00783,24,24,23,2,9,DUF1064 domain-containing protein,other,0,0,0,0,0
+GF00731,23,23,23,4,15,hypothetical protein,other,0,0,0,0,0
+GF00788,23,23,23,4,10,phage tail tube protein,phage_core,0,0,0,0,1
+GF01114,23,23,23,4,14,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01400,23,23,23,4,14,hypothetical protein,other,0,0,0,0,0
+GF00142,25,23,19,4,12,phage portal protein,phage_core,0,0,0,0,1
+GF00886,23,23,19,4,12,phage head-tail connector protein,phage_core,0,0,0,0,1
+GF00892,23,23,19,4,12,hypothetical protein,other,0,0,0,0,0
+GF01153,23,23,19,4,12,Rho termination factor N-terminal domain-containing protein,other,0,0,0,0,0
+GF01120,23,23,23,3,10,hypothetical protein,other,0,0,0,0,0
+GF00239,25,23,22,3,11,site-specific integrase,other,0,0,0,0,0
+GF00342,23,23,22,3,13,hypothetical protein,other,0,0,0,0,0
+GF00901,23,23,23,2,7,hypothetical protein,other,0,0,0,0,0
+GF01231,23,23,23,2,8,hypothetical protein,other,0,0,0,0,0
+GF01264,23,23,22,2,13,hypothetical protein,other,0,0,0,0,0
+GF01197,23,23,21,2,9,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01154,23,23,23,1,5,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01244,23,23,23,1,5,hypothetical protein,other,0,0,0,0,0
+GF00482,23,23,22,1,12,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00234,22,22,20,4,12,phage tail sheath subtilisin-like domain-containing protein,phage_core,0,0,0,0,1
+GF01094,22,22,21,2,13,hypothetical protein,other,0,0,0,0,0
+GF01091,22,22,18,2,8,DUF3850 domain-containing protein,other,0,0,0,0,0
+GF01305,21,21,21,5,14,hypothetical protein,other,0,0,0,0,0
+GF00011,32,21,21,4,9,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00015,21,21,19,4,11,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00291,21,21,19,4,11,hypothetical protein,other,0,0,0,0,0
+GF00688,21,21,19,4,11,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00709,21,21,19,4,11,phage tail terminator family protein,phage_core,0,0,0,0,1
+GF00756,21,21,19,4,11,phage tail tube protein,phage_core,0,0,0,0,1
+GF00792,21,21,19,4,11,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00099,21,21,21,3,5,cell wall-binding protein Cwp26,other,0,0,0,0,0
+GF00207,21,21,19,2,9,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00170,20,20,20,2,6,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00376,21,20,20,2,4,tetratricopeptide repeat protein,other,0,0,0,0,0
+GF00396,21,20,17,2,8,ORF6N domain-containing protein,other,0,0,0,0,0
+GF01150,20,20,19,1,11,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01011,19,19,17,4,15,hypothetical protein,other,0,0,0,0,0
+GF00719,19,19,16,4,12,yopX family protein,other,0,0,0,0,0
+GF00359,19,19,19,3,12,BRO-N domain-containing protein,other,0,0,0,0,0
+GF01285,19,19,18,3,8,hypothetical protein,other,0,0,0,0,0
+GF01065,19,19,17,3,11,hypothetical protein,other,0,0,0,0,0
+GF00791,19,19,16,3,11,YopX family protein,other,0,0,0,0,0
+GF00171,19,19,15,3,10,hypothetical protein,other,0,0,0,0,0
+GF00266,19,19,19,2,12,hypothetical protein,other,0,0,0,0,0
+GF00441,19,19,18,2,7,DUF5986 family protein,other,0,0,0,0,0
+GF01176,19,19,18,2,12,hypothetical protein,other,0,0,0,0,0
+GF00959,19,19,17,2,4,hypothetical protein,other,0,0,0,0,0
+GF00497,19,19,19,1,4,hypothetical protein,other,0,0,0,0,0
+GF00174,18,18,16,4,7,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF01229,18,18,17,3,15,type II toxin-antitoxin system HicA family toxin,defence,1,0,0,0,0
+GF00668,18,18,18,2,11,hypothetical protein,other,0,0,0,0,0
+GF00974,18,18,16,2,8,hypothetical protein,other,0,0,0,0,0
+GF00983,18,18,14,2,6,hypothetical protein,other,0,0,0,0,0
+GF00121,18,18,18,1,3,hypothetical protein,other,0,0,0,0,0
+GF00211,18,18,18,1,3,XRE family transcriptional regulator,other,0,0,0,0,0
+GF00251,18,18,18,1,3,hypothetical protein,other,0,0,0,0,0
+GF00506,18,18,18,1,3,hypothetical protein,other,0,0,0,0,0
+GF00127,17,17,14,4,9,minor capsid protein,phage_core,0,0,0,0,1
+GF00889,17,17,16,3,7,hypothetical protein,other,0,0,0,0,0
+GF00259,20,17,17,2,3,hypothetical protein,other,0,0,0,0,0
+GF00303,18,17,17,2,3,hypothetical protein,other,0,0,0,0,0
+GF00458,17,17,17,2,3,ATP-binding protein,other,0,0,0,0,0
+GF00502,17,17,17,2,3,sigma-70 family RNA polymerase sigma factor,other,0,0,0,0,0
+GF00871,17,17,17,2,3,DUF2513 domain-containing protein,other,0,0,0,0,0
+GF01381,17,17,17,2,8,hypothetical protein,other,0,0,0,0,0
+GF01425,17,17,16,2,6,hypothetical protein,other,0,0,0,0,0
+GF00305,16,16,16,4,6,DnaD domain protein,other,0,0,0,0,0
+GF00315,17,16,15,4,11,phage recombination protein Bet,other,0,0,0,0,0
+GF01363,16,16,14,4,9,hypothetical protein,other,0,0,0,0,0
+GF00130,16,16,11,4,8,phage terminase large subunit,phage_core,0,0,0,0,1
+GF01052,16,16,14,3,12,hypothetical protein,other,0,0,0,0,0
+GF01119,16,16,14,3,8,hypothetical protein,other,0,0,0,0,0
+GF00958,16,16,16,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01044,16,16,15,2,13,hypothetical protein,other,0,0,0,0,0
+GF00042,16,16,16,1,4,FtsX-like permease family protein,other,0,0,0,0,0
+GF00189,16,16,16,1,3,hypothetical protein,other,0,0,0,0,0
+GF00430,16,16,16,1,3,restriction endonuclease,defence,1,0,0,0,0
+GF00431,16,16,16,1,4,ABC transporter ATP-binding protein,other,0,0,0,0,0
+GF00831,16,16,16,1,3,hypothetical protein,other,0,0,0,0,0
+GF01139,15,15,13,4,9,hypothetical protein,other,0,0,0,0,0
+GF01156,15,15,15,3,11,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01223,15,15,14,3,11,hypothetical protein,other,0,0,0,0,0
+GF00086,15,15,15,2,7,SNIPE associated domain-containing protein,other,0,0,0,0,0
+GF01103,15,15,15,2,7,zinc ribbon domain-containing protein,other,0,0,0,0,0
+GF01315,15,15,15,2,2,hypothetical protein,other,0,0,0,0,0
+GF01345,15,15,15,2,2,hypothetical protein,other,0,0,0,0,0
+GF00518,15,15,13,2,9,hypothetical protein,other,0,0,0,0,0
+GF00927,15,15,10,2,7,hypothetical protein,other,0,0,0,0,0
+GF00352,15,15,15,1,2,DNA cytosine methyltransferase,other,0,0,0,0,0
+GF01148,15,15,15,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00585,15,15,12,1,8,zinc-ribbon domain-containing protein,other,0,0,0,0,0
+GF00597,15,15,12,1,8,phage lipoprotein,other,0,0,0,0,0
+GF01060,15,14,14,2,3,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01206,14,14,14,2,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01356,14,14,14,2,1,hypothetical protein,other,0,0,0,0,0
+GF00136,14,14,13,2,7,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF01268,14,14,13,2,10,Arc family DNA-binding protein,other,0,0,0,0,0
+GF01401,14,14,13,2,10,Arc family DNA-binding protein,other,0,0,0,0,0
+GF00144,15,14,11,2,10,hypothetical protein,other,0,0,0,0,0
+GF00115,14,14,14,1,6,SAP domain-containing protein,other,0,0,0,0,0
+GF01284,14,14,14,1,4,hypothetical protein,other,0,0,0,0,0
+GF01374,14,14,14,1,4,hypothetical protein,other,0,0,0,0,0
+GF00820,13,13,13,3,8,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01243,13,13,13,3,8,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01357,13,13,13,3,7,CPCC family cysteine-rich protein,other,0,0,0,0,0
+GF00899,13,13,10,3,6,hypothetical protein,other,0,0,0,0,0
+GF01053,13,13,10,3,6,hypothetical protein,other,0,0,0,0,0
+GF01427,13,13,10,3,9,hypothetical protein,other,0,0,0,0,0
+GF00250,13,13,9,3,7,hypothetical protein,other,0,0,0,0,0
+GF00203,13,13,13,2,2,type I restriction endonuclease,defence,1,0,0,0,0
+GF00656,13,13,13,2,5,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00751,13,13,13,2,2,hypothetical protein,other,0,0,0,0,0
+GF01005,13,13,13,2,2,hypothetical protein,other,0,0,0,0,0
+GF01025,13,13,13,2,8,hypothetical protein,other,0,0,0,0,0
+GF01059,13,13,13,2,2,hypothetical protein,other,0,0,0,0,0
+GF01384,13,13,13,2,2,hypothetical protein,other,0,0,0,0,0
+GF01387,13,13,13,2,4,hypothetical protein,other,0,0,0,0,0
+GF00274,13,13,12,2,8,YqaJ viral recombinase family nuclease,other,0,0,0,0,0
+GF00363,13,13,12,2,8,recombinase RecT,other,0,0,0,0,0
+GF01289,13,13,12,2,8,hypothetical protein,other,0,0,0,0,0
+GF01340,13,13,12,2,8,hypothetical protein,other,0,0,0,0,0
+GF00625,13,13,13,1,2,hypothetical protein,other,0,0,0,0,0
+GF01121,12,12,12,4,9,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00444,12,12,12,3,6,phage terminase small subunit,phage_core,0,0,0,0,1
+GF00698,12,12,12,2,1,DUF1492 domain-containing protein,other,0,0,0,0,0
+GF00914,12,12,12,2,1,hypothetical protein,other,0,0,0,0,0
+GF01290,12,12,12,2,5,hypothetical protein,other,0,0,0,0,0
+GF01343,12,12,12,2,5,ribbon-helix-helix domain-containing protein,other,0,0,0,0,0
+GF01361,12,12,12,2,1,hypothetical protein,other,0,0,0,0,0
+GF01187,12,12,11,2,6,hypothetical protein,other,0,0,0,0,0
+GF01255,12,12,11,2,4,hypothetical protein,other,0,0,0,0,0
+GF00348,12,12,9,2,8,hypothetical protein,other,0,0,0,0,0
+GF00014,12,12,12,1,1,type I restriction endonuclease subunit R,defence,1,0,0,0,0
+GF00040,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00041,12,12,12,1,1,ribonuclease R,other,0,0,0,0,0
+GF00047,12,12,12,1,1,type I restriction-modification system subunit M,defence,1,0,0,0,0
+GF00139,12,12,12,1,1,restriction endonuclease subunit S,defence,1,0,0,0,0
+GF00147,12,12,12,1,1,replicative DNA helicase,other,0,0,0,0,0
+GF00156,12,12,12,1,1,ABC transporter permease,other,0,0,0,0,0
+GF00192,12,12,12,1,1,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00217,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00269,12,12,12,1,1,recombinase family protein,other,0,0,0,0,0
+GF00279,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00290,12,12,12,1,1,AEC family transporter,other,0,0,0,0,0
+GF00302,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00309,13,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00333,12,12,12,1,1,ABC transporter ATP-binding protein,other,0,0,0,0,0
+GF00368,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00369,12,12,12,1,1,AIM24 family protein,other,0,0,0,0,0
+GF00433,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00439,12,12,12,1,5,peptidoglycan recognition protein family protein,other,0,0,0,0,0
+GF00510,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00512,12,12,12,1,1,recombinase zinc ribbon domain-containing protein,other,0,0,0,0,0
+GF00531,12,12,12,1,1,sigma-70 family RNA polymerase sigma factor,other,0,0,0,0,0
+GF00543,12,12,12,1,1,DNA alkylation repair protein,other,0,0,0,0,0
+GF00558,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00649,12,12,12,1,1,GNAT family N-acetyltransferase,other,0,0,0,0,0
+GF00657,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00658,12,12,12,1,1,YbhB/YbcL family Raf kinase inhibitor-like protein,other,0,0,0,0,0
+GF00664,12,12,12,1,1,YfbM family protein,other,0,0,0,0,0
+GF00675,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00692,12,12,12,1,1,GNAT family N-acetyltransferase,other,0,0,0,0,0
+GF00695,12,12,12,1,1,JAB domain-containing protein,other,0,0,0,0,0
+GF00714,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00727,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00728,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00764,12,12,12,1,1,MarR family winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00811,12,12,12,1,1,VOC family protein,other,0,0,0,0,0
+GF00875,12,12,12,1,1,winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00907,12,12,12,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00921,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00928,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01003,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01006,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01024,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01062,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01075,12,12,12,1,1,DUF960 family protein,other,0,0,0,0,0
+GF01085,12,12,12,1,1,Mor transcription activator family protein,other,0,0,0,0,0
+GF01093,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01128,12,12,12,1,1,MerR family transcriptional regulator,other,0,0,0,0,0
+GF01145,12,12,12,1,1,preprotein translocase subunit SecG,other,0,0,0,0,0
+GF01157,12,12,12,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01250,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01373,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01395,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01436,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF01442,12,12,12,1,1,hypothetical protein,other,0,0,0,0,0
+GF00081,11,11,11,3,8,glycine rich domain-containing protein,other,0,0,0,0,0
+GF00143,11,11,11,3,4,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF01335,11,11,11,3,7,hypothetical protein,other,0,0,0,0,0
+GF00557,11,11,9,3,6,phage scaffolding protein,other,0,0,0,0,0
+GF00708,11,11,11,1,1,SsrA-binding protein SmpB,other,0,0,0,0,0
+GF00399,10,10,10,4,6,hypothetical protein,other,0,0,0,0,0
+GF01312,10,10,10,4,6,hypothetical protein,other,0,0,0,0,0
+GF00559,10,10,10,3,5,phage scaffolding protein,other,0,0,0,0,0
+GF01037,10,10,10,3,5,hypothetical protein,other,0,0,0,0,0
+GF01362,10,10,10,3,6,hypothetical protein,other,0,0,0,0,0
+GF00390,10,10,10,2,6,DNA adenine methylase,other,0,0,0,0,0
+GF00828,10,10,10,2,9,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01013,11,10,10,2,2,hypothetical protein,other,0,0,0,0,0
+GF01257,10,10,10,2,6,hypothetical protein,other,0,0,0,0,0
+GF00740,10,10,9,2,8,terminase small subunit,phage_core,0,0,0,0,1
+GF01048,10,10,10,1,6,hypothetical protein,other,0,0,0,0,0
+GF01380,10,10,10,1,7,hypothetical protein,other,0,0,0,0,0
+GF01087,10,10,9,1,3,hypothetical protein,other,0,0,0,0,0
+GF01339,10,10,9,1,4,hypothetical protein,other,0,0,0,0,0
+GF00193,10,10,7,1,4,phosphoribosyltransferase,other,0,0,0,0,0
+GF00200,10,10,7,1,4,DNA-processing protein DprA,other,0,0,0,0,0
+GF01063,9,9,8,4,7,hypothetical protein,other,0,0,0,0,0
+GF00513,9,9,9,3,5,hypothetical protein,other,0,0,0,0,0
+GF00666,9,9,9,3,4,ParB N-terminal domain-containing protein,other,0,0,0,0,0
+GF01105,9,9,9,3,7,hypothetical protein,other,0,0,0,0,0
+GF01200,9,9,9,3,5,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00051,9,9,9,2,3,AAA family ATPase,other,0,0,0,0,0
+GF00470,9,9,9,2,3,MBL fold metallo-hydrolase,other,0,0,0,0,0
+GF00508,9,9,9,2,5,YmfQ family protein,other,0,0,0,0,0
+GF00691,9,9,9,2,5,pyrophosphohydrolase domain-containing protein,other,0,0,0,0,0
+GF00825,9,9,9,2,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00855,9,9,9,2,5,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00994,9,9,9,2,5,hypothetical protein,other,0,0,0,0,0
+GF01090,10,9,9,2,1,hypothetical protein,other,0,0,0,0,0
+GF01204,9,9,9,2,5,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01414,9,9,9,2,4,hypothetical protein,other,0,0,0,0,0
+GF01432,9,9,9,2,5,hypothetical protein,other,0,0,0,0,0
+GF00240,9,9,8,2,7,major capsid protein,phage_core,0,0,0,0,1
+GF01426,9,9,8,2,6,hypothetical protein,other,0,0,0,0,0
+GF00407,9,9,7,2,6,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF01146,9,9,9,1,4,hypothetical protein,other,0,0,0,0,0
+GF00590,9,9,8,1,6,hypothetical protein,other,0,0,0,0,0
+GF00991,8,8,8,3,4,hypothetical protein,other,0,0,0,0,0
+GF01074,8,8,8,3,5,hypothetical protein,other,0,0,0,0,0
+GF01115,8,8,8,3,6,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01252,8,8,8,3,7,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00016,8,8,8,2,6,phage tail spike protein,phage_core,0,0,0,0,1
+GF00019,11,8,8,2,5,DEAD/DEAH box helicase family protein,other,0,0,0,0,0
+GF00024,8,8,8,2,6,phage tail protein,phage_core,0,0,0,0,1
+GF00039,8,8,8,2,6,BppU family phage baseplate upper protein,phage_core,0,0,0,0,1
+GF00090,8,8,8,2,2,recombinase family protein,other,0,0,0,0,0
+GF00222,8,8,8,2,3,IS200/IS605 family element RNA-guided endonuclease TnpB,MGE,0,0,0,1,0
+GF00283,8,8,8,2,2,MobV family relaxase,MGE,0,0,0,1,0
+GF00301,8,8,8,2,5,SHOCT domain-containing protein,other,0,0,0,0,0
+GF00340,8,8,8,2,2,aminoglycoside 6-adenylyltransferase AadE,AMR,0,0,1,0,0
+GF00398,8,8,8,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00495,8,8,8,2,4,HNH endonuclease signature motif containing protein,other,0,0,0,0,0
+GF00787,8,8,8,2,2,cysteine-rich VLP domain-containing protein,other,0,0,0,0,0
+GF00816,8,8,8,2,2,replication initiator protein A,other,0,0,0,0,0
+GF00884,8,8,8,2,5,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01130,8,8,8,2,4,hypothetical protein,other,0,0,0,0,0
+GF01142,8,8,8,2,5,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01189,8,8,8,2,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01232,8,8,8,2,5,hypothetical protein,other,0,0,0,0,0
+GF01240,8,8,8,2,2,hypothetical protein,other,0,0,0,0,0
+GF01311,8,8,8,2,7,hypothetical protein,other,0,0,0,0,0
+GF01331,8,8,8,2,4,hypothetical protein,other,0,0,0,0,0
+GF00109,8,8,7,2,6,phage portal protein,phage_core,0,0,0,0,1
+GF00128,8,8,7,2,6,ADP-ribosyltransferase,other,0,0,0,0,0
+GF00161,8,8,7,2,6,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00523,8,8,7,2,6,phage scaffolding protein,other,0,0,0,0,0
+GF00806,8,8,7,2,5,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01124,8,8,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00555,8,8,8,1,4,hypothetical protein,other,0,0,0,0,0
+GF01069,9,8,8,1,3,hypothetical protein,other,0,0,0,0,0
+GF01314,8,8,8,1,4,hypothetical protein,other,0,0,0,0,0
+GF00594,8,8,7,1,3,hypothetical protein,other,0,0,0,0,0
+GF00186,7,7,7,4,4,site-specific integrase,other,0,0,0,0,0
+GF00930,7,7,7,3,6,hypothetical protein,other,0,0,0,0,0
+GF00863,7,7,5,3,3,Acb2/Tad1 domain-containing protein,other,0,0,0,0,0
+GF00001,9,7,7,2,5,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00208,7,7,7,2,3,Kelch repeat-containing protein,other,0,0,0,0,0
+GF00215,7,7,7,2,3,Kelch repeat-containing protein,other,0,0,0,0,0
+GF00354,11,7,7,2,3,NTF2-like N-terminal transpeptidase domain-containing protein,other,0,0,0,0,0
+GF00392,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00445,7,7,7,2,5,distal tail protein Dit,phage_core,0,0,0,0,1
+GF00617,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00684,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00734,7,7,7,2,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00753,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00818,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF00869,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF00878,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00897,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF00915,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00939,9,7,7,2,3,carboxymuconolactone decarboxylase family protein,other,0,0,0,0,0
+GF01076,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF01080,7,7,7,2,3,SdpI family protein,other,0,0,0,0,0
+GF01116,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF01166,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF01198,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF01296,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF01317,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF01351,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF01352,7,7,7,2,3,hypothetical protein,other,0,0,0,0,0
+GF01389,7,7,7,2,5,type I toxin-antitoxin system toxin,defence,1,0,0,0,0
+GF01439,7,7,7,2,5,hypothetical protein,other,0,0,0,0,0
+GF00895,8,7,6,2,6,hypothetical protein,other,0,0,0,0,0
+GF01413,7,7,6,2,4,hypothetical protein,other,0,0,0,0,0
+GF00405,7,7,5,2,4,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00077,6,6,6,3,4,phage tail protein,phage_core,0,0,0,0,1
+GF00233,6,6,6,3,4,phage coat protein,other,0,0,0,0,0
+GF00640,6,6,6,3,5,hypothetical protein,other,0,0,0,0,0
+GF01210,6,6,6,3,3,excisionase,other,0,0,0,0,0
+GF01100,6,6,5,3,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00022,6,6,6,2,2,phage tail spike protein,phage_core,0,0,0,0,1
+GF00026,6,6,6,2,2,glycosyl hydrolase family 18 protein,other,0,0,0,0,0
+GF00092,6,6,6,2,2,terminase large subunit,phage_core,0,0,0,0,1
+GF00112,6,6,6,2,4,hypothetical protein,other,0,0,0,0,0
+GF00141,6,6,6,2,2,phage portal protein,phage_core,0,0,0,0,1
+GF00169,6,6,6,2,2,site-specific DNA-methyltransferase,other,0,0,0,0,0
+GF00181,6,6,6,2,2,phage major capsid protein,phage_core,0,0,0,0,1
+GF00212,6,6,6,2,5,hypothetical protein,other,0,0,0,0,0
+GF00364,6,6,6,2,6,hypothetical protein,other,0,0,0,0,0
+GF00425,6,6,6,2,5,BRO-N domain-containing protein,other,0,0,0,0,0
+GF00426,6,6,6,2,2,distal tail protein Dit,phage_core,0,0,0,0,1
+GF00455,6,6,6,2,2,"head maturation protease, ClpP-related",other,0,0,0,0,0
+GF00546,6,6,6,2,2,major tail protein,phage_core,0,0,0,0,1
+GF00608,6,6,6,2,2,P27 family phage terminase small subunit,phage_core,0,0,0,0,1
+GF00757,6,6,6,2,2,HK97-gp10 family putative phage morphogenesis protein,other,0,0,0,0,0
+GF00770,6,6,6,2,2,phage holin family protein,phage_core,0,0,0,0,1
+GF00841,6,6,6,2,2,hypothetical protein,other,0,0,0,0,0
+GF00883,6,6,6,2,2,HNH endonuclease,other,0,0,0,0,0
+GF00896,6,6,6,2,2,hypothetical protein,other,0,0,0,0,0
+GF00931,6,6,6,2,2,phage head closure protein,other,0,0,0,0,0
+GF00979,6,6,6,2,2,head-tail connector protein,phage_core,0,0,0,0,1
+GF01049,6,6,6,2,1,hypothetical protein,other,0,0,0,0,0
+GF01144,6,6,6,2,3,hypothetical protein,other,0,0,0,0,0
+GF01242,6,6,6,2,2,hypothetical protein,other,0,0,0,0,0
+GF01246,6,6,6,2,5,hypothetical protein,other,0,0,0,0,0
+GF01254,6,6,6,2,5,hypothetical protein,other,0,0,0,0,0
+GF01318,11,6,6,2,4,hypothetical protein,other,0,0,0,0,0
+GF01368,6,6,6,2,6,hypothetical protein,other,0,0,0,0,0
+GF00665,6,6,5,2,4,hypothetical protein,other,0,0,0,0,0
+GF00998,6,6,5,2,6,hypothetical protein,other,0,0,0,0,0
+GF01329,6,6,5,2,4,hypothetical protein,other,0,0,0,0,0
+GF01333,6,6,5,2,4,hypothetical protein,other,0,0,0,0,0
+GF01057,6,6,4,2,2,Gp49 family protein,other,0,0,0,0,0
+GF00085,6,6,6,1,1,hypothetical protein,other,0,0,0,0,0
+GF00105,6,6,6,1,1,Eco57I restriction-modification methylase domain-containing protein,defence,1,0,0,0,0
+GF00164,6,6,6,1,4,hypothetical protein,other,0,0,0,0,0
+GF00219,6,6,6,1,1,DUF262 domain-containing protein,other,0,0,0,0,0
+GF00236,6,6,6,1,1,dsDNA nuclease domain-containing protein,other,0,0,0,0,0
+GF00414,6,6,6,1,1,MAE_28990/MAE_18760 family HEPN-like nuclease,other,0,0,0,0,0
+GF00690,6,6,6,1,2,hypothetical protein,other,0,0,0,0,0
+GF00835,6,6,6,1,2,DUF1653 domain-containing protein,other,0,0,0,0,0
+GF00953,6,6,6,1,2,hypothetical protein,other,0,0,0,0,0
+GF01068,6,6,6,1,1,hypothetical protein,other,0,0,0,0,0
+GF01175,6,6,6,1,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01262,6,6,6,1,3,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01346,6,6,6,1,1,hypothetical protein,other,0,0,0,0,0
+GF01419,6,6,6,1,3,hypothetical protein,other,0,0,0,0,0
+GF01444,6,6,6,1,1,hypothetical protein,other,0,0,0,0,0
+GF00992,6,6,4,1,3,hypothetical protein,other,0,0,0,0,0
+GF00432,5,5,5,3,4,hypothetical protein,other,0,0,0,0,0
+GF00519,5,5,5,3,4,queuosine precursor transporter,other,0,0,0,0,0
+GF00882,5,5,5,3,5,hypothetical protein,other,0,0,0,0,0
+GF00006,5,5,5,2,3,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00052,5,5,5,2,3,tail fiber domain-containing protein,phage_core,0,0,0,0,1
+GF00058,5,5,5,2,3,DNA primase family protein,other,0,0,0,0,0
+GF00124,5,5,5,2,5,hypothetical protein,other,0,0,0,0,0
+GF00129,5,5,5,2,3,phage portal protein,phage_core,0,0,0,0,1
+GF00153,5,5,5,2,3,phage terminase large subunit,phage_core,0,0,0,0,1
+GF00173,5,5,5,2,3,phage minor capsid protein,phage_core,0,0,0,0,1
+GF00237,5,5,5,2,3,ParB/RepB/Spo0J family partition protein,MGE,0,0,0,1,0
+GF00249,5,5,5,2,3,minor capsid protein,phage_core,0,0,0,0,1
+GF00336,5,5,5,2,2,recombinase RecT,other,0,0,0,0,0
+GF00401,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00442,5,5,5,2,3,ParA family protein,other,0,0,0,0,0
+GF00453,5,5,5,2,3,distal tail protein Dit,phage_core,0,0,0,0,1
+GF00514,5,5,5,2,3,DUF4236 domain-containing protein,other,0,0,0,0,0
+GF00553,5,5,5,2,3,bacteriophage Gp15 family protein,other,0,0,0,0,0
+GF00554,5,5,5,2,3,Holliday junction resolvase RecU,other,0,0,0,0,0
+GF00569,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00572,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00583,5,5,5,2,3,phage scaffolding protein,other,0,0,0,0,0
+GF00593,5,5,5,2,5,hypothetical protein,other,0,0,0,0,0
+GF00710,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00716,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00720,5,5,5,2,5,hypothetical protein,other,0,0,0,0,0
+GF00752,5,5,5,2,3,DUF6751 family protein,other,0,0,0,0,0
+GF00760,5,5,5,2,3,chloramphenicol resistance protein,AMR,0,0,1,0,0
+GF00762,5,5,5,2,3,sigma-70 RNA polymerase sigma factor region 4 domain-containing protein,other,0,0,0,0,0
+GF00763,5,5,5,2,2,RNA polymerase sigma factor,other,0,0,0,0,0
+GF00765,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00794,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF00827,5,5,5,2,3,BlaI/MecI/CopY family transcriptional regulator,other,0,0,0,0,0
+GF00877,5,5,5,2,3,DUF6673 family protein,other,0,0,0,0,0
+GF00910,5,5,5,2,3,minor capsid protein,phage_core,0,0,0,0,1
+GF00937,5,5,5,2,3,head-tail connector protein,phage_core,0,0,0,0,1
+GF00956,5,5,5,2,4,DUF1827 family protein,other,0,0,0,0,0
+GF00971,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF01032,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF01089,5,5,5,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01117,5,5,5,2,2,hypothetical protein,other,0,0,0,0,0
+GF01131,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF01181,5,5,5,2,5,hypothetical protein,other,0,0,0,0,0
+GF01224,5,5,5,2,4,hypothetical protein,other,0,0,0,0,0
+GF01293,5,5,5,2,4,hypothetical protein,other,0,0,0,0,0
+GF01303,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF01366,5,5,5,2,2,type I toxin-antitoxin system toxin,defence,1,0,0,0,0
+GF01397,5,5,5,2,3,hypothetical protein,other,0,0,0,0,0
+GF01188,5,5,4,2,3,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00004,5,5,5,1,3,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00089,5,5,5,1,2,terminase TerL endonuclease subunit,phage_core,0,0,0,0,1
+GF00165,5,5,5,1,3,phage portal protein,phage_core,0,0,0,0,1
+GF00187,5,5,5,1,2,phage portal protein,phage_core,0,0,0,0,1
+GF00201,5,5,5,1,2,phage major capsid protein,phage_core,0,0,0,0,1
+GF00294,5,5,5,1,3,Kiwa anti-phage protein KwaB-like domain-containing protein,defence,1,0,0,0,0
+GF00504,5,5,5,1,2,phage head completion protein,other,0,0,0,0,0
+GF00522,5,5,5,1,2,HK97 family phage prohead protease,phage_core,0,0,0,0,1
+GF00527,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF00574,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF00584,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF00596,5,5,5,1,2,P27 family phage terminase small subunit,phage_core,0,0,0,0,1
+GF00612,5,5,5,1,2,site-specific integrase,other,0,0,0,0,0
+GF00843,5,5,5,1,2,BlaI/MecI/CopY family transcriptional regulator,other,0,0,0,0,0
+GF00916,5,5,5,1,3,phage head closure protein,other,0,0,0,0,0
+GF00917,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF00938,5,5,5,1,2,HNH endonuclease,other,0,0,0,0,0
+GF00951,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF01008,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF01038,5,5,5,1,3,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01043,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF01170,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF01174,5,5,5,1,1,hypothetical protein,other,0,0,0,0,0
+GF01214,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF01313,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF01388,5,5,5,1,3,hypothetical protein,other,0,0,0,0,0
+GF01422,5,5,5,1,2,hypothetical protein,other,0,0,0,0,0
+GF00214,5,5,4,1,3,baseplate J/gp47 family protein,phage_core,0,0,0,0,1
+GF00353,4,4,4,3,2,tripartite tricarboxylate transporter TctB family protein,other,0,0,0,0,0
+GF00377,4,4,4,3,4,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00003,4,4,4,2,3,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00017,4,4,4,2,2,BppU family phage baseplate upper protein,phage_core,0,0,0,0,1
+GF00043,4,4,4,2,2,phage tail spike protein,phage_core,0,0,0,0,1
+GF00059,4,4,4,2,2,phage tail protein,phage_core,0,0,0,0,1
+GF00285,4,4,4,2,4,DUF4868 domain-containing protein,other,0,0,0,0,0
+GF00329,4,4,4,2,4,hypothetical protein,other,0,0,0,0,0
+GF00421,4,4,4,2,3,hypothetical protein,other,0,0,0,0,0
+GF00448,4,4,4,2,2,DNA-methyltransferase,other,0,0,0,0,0
+GF00466,4,4,4,2,2,GNAT family N-acetyltransferase,other,0,0,0,0,0
+GF00474,4,4,4,2,2,phage terminase small subunit,phage_core,0,0,0,0,1
+GF00536,4,4,4,2,4,major tail protein,phage_core,0,0,0,0,1
+GF00567,4,4,4,2,4,phage scaffolding protein,other,0,0,0,0,0
+GF00587,4,4,4,2,2,recombinase family protein,other,0,0,0,0,0
+GF00627,4,4,4,2,2,GNAT family N-acetyltransferase,other,0,0,0,0,0
+GF00747,4,4,4,2,2,phage tail tube protein,phage_core,0,0,0,0,1
+GF00860,4,4,4,2,4,hypothetical protein,other,0,0,0,0,0
+GF00862,4,4,4,2,3,hypothetical protein,other,0,0,0,0,0
+GF00864,4,4,4,2,4,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00870,4,4,4,2,3,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00872,4,4,4,2,3,hypothetical protein,other,0,0,0,0,0
+GF00909,4,4,4,2,2,hypothetical protein,other,0,0,0,0,0
+GF00947,4,4,4,2,4,hypothetical protein,other,0,0,0,0,0
+GF00995,4,4,4,2,3,hypothetical protein,other,0,0,0,0,0
+GF01102,4,4,4,2,2,hypothetical protein,other,0,0,0,0,0
+GF01205,4,4,4,2,3,hypothetical protein,other,0,0,0,0,0
+GF01421,4,4,4,2,4,hypothetical protein,other,0,0,0,0,0
+GF00446,4,4,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00007,5,4,4,1,1,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00021,4,4,4,1,1,phage tail protein,phage_core,0,0,0,0,1
+GF00031,4,4,4,1,1,virulence-associated E family protein,other,0,0,0,0,0
+GF00062,4,4,4,1,2,glycerophosphodiester phosphodiesterase,defence,1,0,0,0,0
+GF00073,4,4,4,1,2,DNA polymerase B family protein,other,0,0,0,0,0
+GF00082,4,4,4,1,2,AAA family ATPase,other,0,0,0,0,0
+GF00096,4,4,4,1,1,recombinase family protein,other,0,0,0,0,0
+GF00098,4,4,4,1,1,recombinase family protein,other,0,0,0,0,0
+GF00132,4,4,4,1,2,HAMP domain-containing sensor histidine kinase,other,0,0,0,0,0
+GF00133,4,4,4,1,1,sodium:solute symporter family protein,other,0,0,0,0,0
+GF00166,4,4,4,1,2,SNF2-related protein,other,0,0,0,0,0
+GF00177,4,4,4,1,1,IS256 family transposase,MGE,0,0,0,1,0
+GF00194,4,4,4,1,1,methionine adenosyltransferase,other,0,0,0,0,0
+GF00197,4,4,4,1,2,InlB B-repeat-containing protein,other,0,0,0,0,0
+GF00206,4,4,4,1,1,phosphoadenosine phosphosulfate reductase domain-containing protein,other,0,0,0,0,0
+GF00256,4,4,4,1,2,membrane protein,other,0,0,0,0,0
+GF00273,4,4,4,1,2,PLP-dependent cysteine synthase family protein,other,0,0,0,0,0
+GF00307,4,4,4,1,1,recombinase RecT,other,0,0,0,0,0
+GF00316,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF00318,4,4,4,1,1,amidoligase family protein,other,0,0,0,0,0
+GF00321,4,4,4,1,2,DUF6731 family protein,other,0,0,0,0,0
+GF00325,4,4,4,1,2,ABC transporter ATP-binding protein,other,0,0,0,0,0
+GF00334,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF00341,4,4,4,1,1,phage tail family protein,phage_core,0,0,0,0,1
+GF00358,4,4,4,1,2,exodeoxyribonuclease X C-terminal domain-containing protein,other,0,0,0,0,0
+GF00373,4,4,4,1,2,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00374,4,4,4,1,2,TraX family protein,other,0,0,0,0,0
+GF00375,4,4,4,1,2,nucleotidyl transferase AbiEii/AbiGii toxin family protein,other,0,0,0,0,0
+GF00386,4,4,4,1,1,terminase gpP N-terminus-related DNA-binding protein,phage_core,0,0,0,0,1
+GF00406,4,4,4,1,1,phosphoadenosine phosphosulfate reductase domain-containing protein,other,0,0,0,0,0
+GF00412,4,4,4,1,1,phage antirepressor,other,0,0,0,0,0
+GF00419,4,4,4,1,2,rolling circle replication-associated protein,other,0,0,0,0,0
+GF00424,4,4,4,1,2,ABC-2 transporter family protein,other,0,0,0,0,0
+GF00457,4,4,4,1,1,23S rRNA (adenine(2058)-N(6))-methyltransferase Erm(B),AMR,0,0,1,0,0
+GF00467,4,4,4,1,2,3'-5' exonuclease,other,0,0,0,0,0
+GF00476,4,4,4,1,1,ParB N-terminal domain-containing protein,other,0,0,0,0,0
+GF00478,4,4,4,1,3,hypothetical protein,other,0,0,0,0,0
+GF00483,4,4,4,1,1,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00487,4,4,4,1,1,5'-methylthioadenosine/adenosylhomocysteine nucleosidase,other,0,0,0,0,0
+GF00489,4,4,4,1,1,virulence protein,other,0,0,0,0,0
+GF00505,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00533,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00537,4,4,4,1,2,flavodoxin family protein,other,0,0,0,0,0
+GF00561,4,4,4,1,1,major tail protein,phage_core,0,0,0,0,1
+GF00563,4,4,4,1,3,hypothetical protein,other,0,0,0,0,0
+GF00573,4,4,4,1,2,sugar O-acetyltransferase,other,0,0,0,0,0
+GF00576,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00580,4,4,4,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00601,4,4,4,1,2,response regulator transcription factor,other,0,0,0,0,0
+GF00604,4,4,4,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00607,4,4,4,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00611,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF00631,4,4,4,1,2,ImmA/IrrE family metallo-endopeptidase,other,0,0,0,0,0
+GF00633,4,4,4,1,1,ParB N-terminal domain-containing protein,other,0,0,0,0,0
+GF00637,4,4,4,1,1,GNAT family N-acetyltransferase,other,0,0,0,0,0
+GF00659,4,4,4,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00660,4,4,4,1,2,phage holin family protein,phage_core,0,0,0,0,1
+GF00699,4,4,4,1,1,gamma-glutamylcyclotransferase family protein,other,0,0,0,0,0
+GF00703,4,4,4,1,1,phage-associated protein,other,0,0,0,0,0
+GF00724,4,4,4,1,2,Panacea domain-containing protein,other,0,0,0,0,0
+GF00730,4,4,4,1,2,DUF669 domain-containing protein,other,0,0,0,0,0
+GF00732,4,4,4,1,1,HK97-gp10 family putative phage morphogenesis protein,other,0,0,0,0,0
+GF00737,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00758,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF00761,4,4,4,1,3,protein-export chaperone SecB,other,0,0,0,0,0
+GF00767,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00776,4,4,4,1,1,DUF7768 domain-containing protein,other,0,0,0,0,0
+GF00785,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00790,4,4,4,1,1,recombinase family protein,other,0,0,0,0,0
+GF00798,4,4,4,1,2,type II toxin-antitoxin system HicB family antitoxin,defence,1,0,0,0,0
+GF00859,4,4,4,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00932,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00936,4,4,4,1,2,winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00943,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF00990,4,4,4,1,2,VRR-NUC domain-containing protein,other,0,0,0,0,0
+GF01019,4,4,4,1,1,phage tail assembly chaperone G,phage_core,0,0,0,0,1
+GF01023,8,4,4,1,1,topoisomerase C-terminal repeat-containing protein,other,0,0,0,0,0
+GF01027,4,4,4,1,1,VRR-NUC domain-containing protein,other,0,0,0,0,0
+GF01045,4,4,4,1,1,single-stranded DNA-binding protein,other,0,0,0,0,0
+GF01134,4,4,4,1,1,SHOCT domain-containing protein,other,0,0,0,0,0
+GF01141,4,4,4,1,1,DUF4314 domain-containing protein,other,0,0,0,0,0
+GF01161,4,4,4,1,2,response regulator,other,0,0,0,0,0
+GF01164,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01169,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01180,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01208,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF01212,4,4,4,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01218,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF01219,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF01247,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01256,4,4,4,1,1,DUF7167 family protein,other,0,0,0,0,0
+GF01258,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01276,4,4,4,1,3,hypothetical protein,other,0,0,0,0,0
+GF01286,4,4,4,1,1,DUF5049 domain-containing protein,other,0,0,0,0,0
+GF01300,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF01370,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01376,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01391,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01399,4,4,4,1,2,hypothetical protein,other,0,0,0,0,0
+GF01424,4,4,4,1,1,hypothetical protein,other,0,0,0,0,0
+GF01447,4,4,4,1,1,23S rRNA methyltransferase attenuation leader peptide,other,0,0,0,0,0
+GF01416,3,3,3,3,3,hypothetical protein,other,0,0,0,0,0
+GF00046,3,3,3,2,2,NACHT domain-containing protein,other,0,0,0,0,0
+GF00110,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00120,3,3,3,2,2,bifunctional aminoglycoside N-acetyltransferase AAC(6')-Ie/aminoglycoside O-phosphotransferase APH(2'')-Ia,AMR,0,0,1,0,0
+GF00135,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF00185,3,3,3,2,3,elongation factor Tu,other,0,0,0,0,0
+GF00267,3,3,3,2,2,phage tail protein,phage_core,0,0,0,0,1
+GF00393,3,3,3,2,1,hypothetical protein,other,0,0,0,0,0
+GF00548,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00571,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00669,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF00686,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00705,3,3,3,2,1,hypothetical protein,other,0,0,0,0,0
+GF00772,3,3,3,2,2,TIR domain-containing protein,defence,1,0,0,0,0
+GF00777,3,3,3,2,2,DUF4231 domain-containing protein,other,0,0,0,0,0
+GF00920,3,3,3,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00946,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00954,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF00969,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01055,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01058,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01155,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01234,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01251,3,3,3,2,3,ribbon-helix-helix domain-containing protein,other,0,0,0,0,0
+GF01270,3,3,3,2,2,hypothetical protein,other,0,0,0,0,0
+GF01275,3,3,3,2,3,hypothetical protein,other,0,0,0,0,0
+GF00020,3,3,3,1,2,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00048,3,3,3,1,1,cell wall-binding repeat-containing protein,other,0,0,0,0,0
+GF00083,3,3,3,1,1,terminase large subunit,phage_core,0,0,0,0,1
+GF00145,3,3,3,1,1,phage major capsid protein,phage_core,0,0,0,0,1
+GF00264,3,3,3,1,1,DUF2726 domain-containing protein,other,0,0,0,0,0
+GF00360,3,3,3,1,1,ParA family protein,other,0,0,0,0,0
+GF00420,3,3,3,1,1,phage tail family protein,phage_core,0,0,0,0,1
+GF00465,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00499,3,3,3,1,3,Rha family transcriptional regulator,other,0,0,0,0,0
+GF00532,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF00568,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00578,3,3,3,1,1,major tail protein,phage_core,0,0,0,0,1
+GF00579,3,3,3,1,3,sigma-70 family RNA polymerase sigma factor,other,0,0,0,0,0
+GF00605,3,3,3,1,1,major tail protein,phage_core,0,0,0,0,1
+GF00613,3,3,3,1,1,sigma-70 family RNA polymerase sigma factor,other,0,0,0,0,0
+GF00748,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF00759,3,3,3,1,1,HNH endonuclease,other,0,0,0,0,0
+GF00766,3,3,3,1,1,P27 family phage terminase small subunit,phage_core,0,0,0,0,1
+GF00803,3,3,3,1,2,nucleoside 2-deoxyribosyltransferase domain-containing protein,other,0,0,0,0,0
+GF00804,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00832,3,3,3,1,1,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00846,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF00890,3,3,3,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00891,3,3,3,1,3,transcriptional regulator,other,0,0,0,0,0
+GF00942,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00950,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00973,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00984,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF00993,3,3,3,1,3,hypothetical protein,other,0,0,0,0,0
+GF01036,3,3,3,1,1,head-tail connector protein,phage_core,0,0,0,0,1
+GF01051,3,3,3,1,3,hypothetical protein,other,0,0,0,0,0
+GF01107,3,3,3,1,2,ADP-ribosyltransferase,other,0,0,0,0,0
+GF01172,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF01178,3,3,3,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01186,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF01213,3,3,3,1,2,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01291,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF01383,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF01403,3,3,3,1,2,hypothetical protein,other,0,0,0,0,0
+GF01434,3,3,3,1,1,hypothetical protein,other,0,0,0,0,0
+GF00248,3,3,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00642,3,3,2,1,2,ATP-binding protein,other,0,0,0,0,0
+GF00844,3,3,2,1,2,ASCH domain-containing protein,other,0,0,0,0,0
+GF01109,3,3,2,1,2,DUF3850 domain-containing protein,other,0,0,0,0,0
+GF00025,2,2,2,2,1,hypothetical protein,other,0,0,0,0,0
+GF00076,2,2,2,2,2,terminase large subunit,phage_core,0,0,0,0,1
+GF00119,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00159,2,2,2,2,2,NHL repeat-containing protein,other,0,0,0,0,0
+GF00184,2,2,2,2,2,metallophosphoesterase,other,0,0,0,0,0
+GF00191,2,2,2,2,2,phage portal protein,phage_core,0,0,0,0,1
+GF00202,2,2,2,2,2,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00204,2,2,2,2,2,phage major capsid protein,phage_core,0,0,0,0,1
+GF00231,2,2,2,2,2,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00271,3,2,2,2,2,phosphoadenosine phosphosulfate reductase family protein,other,0,0,0,0,0
+GF00308,2,2,2,2,2,ParM/StbA family protein,other,0,0,0,0,0
+GF00314,2,2,2,2,1,ParM/StbA family protein,other,0,0,0,0,0
+GF00346,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00403,2,2,2,2,2,SHOCT domain-containing protein,other,0,0,0,0,0
+GF00416,2,2,2,2,2,phage tail family protein,phage_core,0,0,0,0,1
+GF00422,2,2,2,2,2,"head maturation protease, ClpP-related",other,0,0,0,0,0
+GF00471,2,2,2,2,2,antirestriction protein ArdA,other,0,0,0,0,0
+GF00540,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00602,2,2,2,2,2,major tail protein,phage_core,0,0,0,0,1
+GF00676,2,2,2,2,2,phage terminase small subunit P27 family,phage_core,0,0,0,0,1
+GF00685,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00713,2,2,2,2,1,hypothetical protein,other,0,0,0,0,0
+GF00726,2,2,2,2,1,phage portal protein,phage_core,0,0,0,0,1
+GF00733,2,2,2,2,2,HNH endonuclease,other,0,0,0,0,0
+GF00736,2,2,2,2,1,DUF6838 family protein,other,0,0,0,0,0
+GF00778,2,2,2,2,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00789,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00812,2,2,2,2,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00833,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00834,2,2,2,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00898,2,2,2,2,1,CD1375 family protein,other,0,0,0,0,0
+GF00933,2,2,2,2,2,phage head closure protein,other,0,0,0,0,0
+GF00945,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00957,3,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00972,2,2,2,2,2,Arm DNA-binding domain-containing protein,other,0,0,0,0,0
+GF00980,2,2,2,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00999,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01012,2,2,2,2,2,head-tail connector protein,phage_core,0,0,0,0,1
+GF01031,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01033,2,2,2,2,2,HU family DNA-binding protein,other,0,0,0,0,0
+GF01047,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01092,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01122,2,2,2,2,2,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01149,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01183,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01193,2,2,2,2,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01194,2,2,2,2,1,hypothetical protein,other,0,0,0,0,0
+GF01237,2,2,2,2,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01260,2,2,2,2,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01277,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01334,2,2,2,2,2,resolvase,other,0,0,0,0,0
+GF01371,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01402,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF01407,2,2,2,2,2,hypothetical protein,other,0,0,0,0,0
+GF00018,2,2,2,1,1,phage tail protein,phage_core,0,0,0,0,1
+GF00033,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00054,2,2,2,1,1,DNA cytosine methyltransferase,other,0,0,0,0,0
+GF00066,2,2,2,1,2,terminase large subunit domain-containing protein,phage_core,0,0,0,0,1
+GF00067,2,2,2,1,1,recombinase family protein,other,0,0,0,0,0
+GF00078,2,2,2,1,2,terminase large subunit,phage_core,0,0,0,0,1
+GF00095,2,2,2,1,1,recombinase family protein,other,0,0,0,0,0
+GF00117,2,2,2,1,1,phage portal protein,phage_core,0,0,0,0,1
+GF00134,2,2,2,1,2,RNA-guided endonuclease InsQ/TnpB family protein,other,0,0,0,0,0
+GF00149,4,2,2,1,2,phage major capsid protein,phage_core,0,0,0,0,1
+GF00154,2,2,2,1,2,chromosomal replication initiator protein DnaA,other,0,0,0,0,0
+GF00175,2,2,2,1,1,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00180,2,2,2,1,1,RNA-guided endonuclease TnpB family protein,other,0,0,0,0,0
+GF00216,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00218,2,2,2,1,2,phage major capsid protein,phage_core,0,0,0,0,1
+GF00223,2,2,2,1,2,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00226,2,2,2,1,1,PIN-like domain-containing protein,other,0,0,0,0,0
+GF00228,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00230,2,2,2,1,1,siphovirus ReqiPepy6 Gp37-like family protein,other,0,0,0,0,0
+GF00253,2,2,2,1,1,minor capsid protein,phage_core,0,0,0,0,1
+GF00277,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00282,2,2,2,1,1,amidoligase family protein,other,0,0,0,0,0
+GF00287,2,2,2,1,1,bacteriophage abortive infection AbiH family protein,defence,1,0,0,0,0
+GF00297,2,2,2,1,2,exonuclease domain-containing protein,other,0,0,0,0,0
+GF00299,2,2,2,1,1,P-loop NTPase fold protein,other,0,0,0,0,0
+GF00324,2,2,2,1,1,DUF2971 domain-containing protein,other,0,0,0,0,0
+GF00326,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00339,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00345,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00347,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00350,2,2,2,1,1,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00366,2,2,2,1,2,HNH endonuclease,other,0,0,0,0,0
+GF00387,2,2,2,1,1,ParA family protein,other,0,0,0,0,0
+GF00388,2,2,2,1,2,N-acetylmuramoyl-L-alanine amidase,phage_core,0,0,0,0,1
+GF00410,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00415,2,2,2,1,1,S-adenosylmethionine synthetase N-terminal domain-containing protein,other,0,0,0,0,0
+GF00418,2,2,2,1,2,type II toxin-antitoxin system HicA family toxin,defence,1,0,0,0,0
+GF00428,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00436,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00438,2,2,2,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00469,2,2,2,1,1,virulence protein,other,0,0,0,0,0
+GF00484,2,2,2,1,1,capsid assembly scaffolding protein Gp46 family protein,phage_core,0,0,0,0,1
+GF00496,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00509,2,2,2,1,2,AP2 domain-containing protein,other,0,0,0,0,0
+GF00529,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00544,2,2,2,1,1,pentapeptide repeat-containing protein,other,0,0,0,0,0
+GF00562,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00577,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00586,2,2,2,1,2,major tail protein,phage_core,0,0,0,0,1
+GF00600,2,2,2,1,1,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00614,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00615,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00624,2,2,2,1,1,LemA family protein,other,0,0,0,0,0
+GF00655,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00671,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00680,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00681,2,2,2,1,1,gamma-glutamylcyclotransferase family protein,other,0,0,0,0,0
+GF00689,2,2,2,1,1,DUF6650 family protein,other,0,0,0,0,0
+GF00696,2,2,2,1,2,phage terminase small subunit P27 family,phage_core,0,0,0,0,1
+GF00725,2,2,2,1,1,phage tail terminator family protein,phage_core,0,0,0,0,1
+GF00735,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00771,2,2,2,1,1,RNA polymerase subunit sigma-70,other,0,0,0,0,0
+GF00793,2,2,2,1,1,sigma factor-like helix-turn-helix DNA-binding protein,other,0,0,0,0,0
+GF00796,2,2,2,1,1,HK97 gp10 family phage protein,other,0,0,0,0,0
+GF00800,2,2,2,1,1,phage tail assembly chaperone,phage_core,0,0,0,0,1
+GF00817,2,2,2,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00821,2,2,2,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00849,2,2,2,1,2,HK97-gp10 family putative phage morphogenesis protein,other,0,0,0,0,0
+GF00865,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00873,2,2,2,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00880,2,2,2,1,1,P-loop NTPase fold protein,other,0,0,0,0,0
+GF00885,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00925,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00934,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00952,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF00960,3,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00967,2,2,2,1,1,DUF6809 family protein,other,0,0,0,0,0
+GF00981,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01015,2,2,2,1,1,Nmad4 family putative nucleotide modification protein,other,0,0,0,0,0
+GF01039,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01040,2,2,2,1,1,DUF2829 domain-containing protein,other,0,0,0,0,0
+GF01050,2,2,2,1,2,head-tail connector protein,phage_core,0,0,0,0,1
+GF01061,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01067,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01082,2,2,2,1,2,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01099,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF01113,2,2,2,1,1,DUF4314 domain-containing protein,other,0,0,0,0,0
+GF01133,2,2,2,1,2,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01140,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01182,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF01201,4,2,2,1,2,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01202,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01216,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01221,2,2,2,1,2,KTSC domain-containing protein,other,0,0,0,0,0
+GF01225,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF01271,2,2,2,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01272,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01282,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF01299,2,2,2,1,1,hypothetical protein,defence,1,0,0,0,0
+GF01310,2,2,2,1,1,SHOCT domain-containing protein,other,0,0,0,0,0
+GF01321,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01322,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01348,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01360,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF01375,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01396,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01404,2,2,2,1,1,hypothetical protein,other,0,0,0,0,0
+GF01437,2,2,2,1,2,hypothetical protein,other,0,0,0,0,0
+GF00349,2,2,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00549,2,2,1,1,2,ribonuclease H family protein,other,0,0,0,0,0
+GF01096,2,2,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01111,2,2,1,1,2,hypothetical protein,other,0,0,0,0,0
+GF01398,2,2,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01405,2,2,1,1,1,siphovirus Gp157 family protein,other,0,0,0,0,0
+GF00002,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00005,1,1,1,1,1,regulator of chromosome condensation (RCC1) repeat family protein,other,0,0,0,0,0
+GF00008,1,1,1,1,1,chromosome condensation regulator,other,0,0,0,0,0
+GF00009,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00013,1,1,1,1,1,phage tail family protein,phage_core,0,0,0,0,1
+GF00030,1,1,1,1,1,anaerobic ribonucleoside triphosphate reductase,other,0,0,0,0,0
+GF00032,1,1,1,1,1,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00034,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00036,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00037,1,1,1,1,1,EAL domain-containing protein,other,0,0,0,0,0
+GF00038,1,1,1,1,1,S8 family peptidase,other,0,0,0,0,0
+GF00044,1,1,1,1,1,BppU family phage baseplate upper protein,phage_core,0,0,0,0,1
+GF00053,1,1,1,1,1,VirB4 family type IV secretion system protein,MGE,0,0,0,1,0
+GF00055,1,1,1,1,1,tetracycline resistance ribosomal protection protein Tet(44),AMR,0,0,1,0,0
+GF00056,1,1,1,1,1,tail fiber domain-containing protein,phage_core,0,0,0,0,1
+GF00060,1,1,1,1,1,phage tail tape measure protein,phage_core,0,0,0,0,1
+GF00061,1,1,1,1,1,tetratricopeptide repeat protein,other,0,0,0,0,0
+GF00063,1,1,1,1,1,phage tail protein,phage_core,0,0,0,0,1
+GF00064,2,1,1,1,1,"VirD4-like conjugal transfer protein, CD1115 family",MGE,0,0,0,1,0
+GF00069,1,1,1,1,1,B12-binding domain-containing radical SAM protein,other,0,0,0,0,0
+GF00070,1,1,1,1,1,terminase large subunit domain-containing protein,phage_core,0,0,0,0,1
+GF00074,1,1,1,1,1,sensor domain-containing diguanylate cyclase,other,0,0,0,0,0
+GF00079,1,1,1,1,1,restriction endonuclease,defence,1,0,0,0,0
+GF00080,1,1,1,1,1,phage minor capsid protein,phage_core,0,0,0,0,1
+GF00084,1,1,1,1,1,recombinase family protein,other,0,0,0,0,0
+GF00093,1,1,1,1,1,recombinase family protein,other,0,0,0,0,0
+GF00097,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00101,1,1,1,1,1,AbgT family transporter,other,0,0,0,0,0
+GF00106,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00111,1,1,1,1,1,DEAD/DEAH box helicase family protein,other,0,0,0,0,0
+GF00113,1,1,1,1,1,phage portal protein,phage_core,0,0,0,0,1
+GF00122,1,1,1,1,1,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB,other,0,0,0,0,0
+GF00123,1,1,1,1,1,cell wall-binding protein Cwp28,other,0,0,0,0,0
+GF00125,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00140,1,1,1,1,1,sensor histidine kinase,other,0,0,0,0,0
+GF00146,1,1,1,1,1,cell wall-binding repeat-containing protein,other,0,0,0,0,0
+GF00150,1,1,1,1,1,BppU family phage baseplate upper protein,phage_core,0,0,0,0,1
+GF00152,1,1,1,1,1,phage terminase large subunit,phage_core,0,0,0,0,1
+GF00157,1,1,1,1,1,ABC transporter substrate-binding protein,other,0,0,0,0,0
+GF00162,1,1,1,1,1,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00163,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00168,1,1,1,1,1,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00178,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00179,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00182,1,1,1,1,1,MalY/PatB family protein,other,0,0,0,0,0
+GF00183,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00188,1,1,1,1,1,minor capsid protein,phage_core,0,0,0,0,1
+GF00190,1,1,1,1,1,pyridoxal phosphate-dependent aminotransferase,other,0,0,0,0,0
+GF00195,1,1,1,1,1,M20 metallopeptidase family protein,other,0,0,0,0,0
+GF00210,1,1,1,1,1,FRG domain-containing protein,other,0,0,0,0,0
+GF00220,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00225,1,1,1,1,1,phage upper tail fiber protein,phage_core,0,0,0,0,1
+GF00227,1,1,1,1,1,AAA family ATPase,other,0,0,0,0,0
+GF00242,1,1,1,1,1,metallophosphoesterase,other,0,0,0,0,0
+GF00245,1,1,1,1,1,23S rRNA (adenine(2503)-C(8))-methyltransferase Cfr(B),other,0,0,0,0,0
+GF00246,1,1,1,1,1,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00247,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00254,1,1,1,1,1,permease,other,0,0,0,0,0
+GF00257,1,1,1,1,1,spore photoproduct lyase,other,0,0,0,0,0
+GF00261,1,1,1,1,1,replication initiation factor domain-containing protein,other,0,0,0,0,0
+GF00262,1,1,1,1,1,YonB family capsid-like protein,phage_core,0,0,0,0,1
+GF00265,1,1,1,1,1,type II toxin-antitoxin system antitoxin SocA domain-containing protein,defence,1,0,0,0,0
+GF00268,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00275,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00276,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00278,1,1,1,1,1,terminase gpP N-terminus-related DNA-binding protein,phage_core,0,0,0,0,1
+GF00280,1,1,1,1,1,major capsid protein,phage_core,0,0,0,0,1
+GF00284,1,1,1,1,1,plasmid segregation protein ParM domain-containing protein,other,0,0,0,0,0
+GF00286,1,1,1,1,1,YgeY family selenium metabolism-linked hydrolase,other,0,0,0,0,0
+GF00288,1,1,1,1,1,MATE family efflux transporter,AMR,0,0,1,0,0
+GF00293,1,1,1,1,1,tyrosine-type recombinase/integrase,other,0,0,0,0,0
+GF00295,1,1,1,1,1,PBSX family phage terminase large subunit,phage_core,0,0,0,0,1
+GF00296,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00298,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00306,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00311,1,1,1,1,1,AraC family transcriptional regulator,other,0,0,0,0,0
+GF00312,1,1,1,1,1,phage tail sheath subtilisin-like domain-containing protein,phage_core,0,0,0,0,1
+GF00313,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00319,1,1,1,1,1,YonG family phage-derived protein,other,0,0,0,0,0
+GF00320,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00322,1,1,1,1,1,Fic/DOC family protein,defence,1,0,0,0,0
+GF00328,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00331,1,1,1,1,1,Hsp33 family molecular chaperone HslO,other,0,0,0,0,0
+GF00337,1,1,1,1,1,nucleotidyltransferase domain-containing protein,other,0,0,0,0,0
+GF00344,2,1,1,1,1,aminoglycoside nucleotidyltransferase ANT(6)-Ia,AMR,0,0,1,0,0
+GF00355,1,1,1,1,1,phage tail protein,phage_core,0,0,0,0,1
+GF00356,1,1,1,1,1,c-di-GMP diguanylate cyclase DccA,other,0,0,0,0,0
+GF00357,1,1,1,1,1,serine/threonine-protein kinase,other,0,0,0,0,0
+GF00362,1,1,1,1,1,PhzF family isomerase,other,0,0,0,0,0
+GF00365,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00371,2,1,1,1,1,ATP-binding protein,other,0,0,0,0,0
+GF00378,1,1,1,1,1,ParA family protein,other,0,0,0,0,0
+GF00379,1,1,1,1,1,YomU family phage tail tube protein,phage_core,0,0,0,0,1
+GF00384,1,1,1,1,1,ANT(9) family aminoglycoside nucleotidyltransferase Spw,AMR,0,0,1,0,0
+GF00385,1,1,1,1,1,NisI/SpaI family lantibiotic immunity lipoprotein,other,0,0,0,0,0
+GF00389,1,1,1,1,1,MerR family transcriptional regulator,other,0,0,0,0,0
+GF00394,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00395,1,1,1,1,1,dnaJ domain protein,other,0,0,0,0,0
+GF00400,1,1,1,1,1,ABC transporter permease,other,0,0,0,0,0
+GF00402,1,1,1,1,1,GIY-YIG nuclease family protein,other,0,0,0,0,0
+GF00404,1,1,1,1,1,DUF3800 domain-containing protein,other,0,0,0,0,0
+GF00413,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00417,1,1,1,1,1,phage tail domain-containing protein,phage_core,0,0,0,0,1
+GF00423,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00427,2,1,1,1,1,replication initiator protein A,other,0,0,0,0,0
+GF00440,1,1,1,1,1,BRO-N domain-containing protein,other,0,0,0,0,0
+GF00447,1,1,1,1,1,ATP-binding protein,other,0,0,0,0,0
+GF00449,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00450,1,1,1,1,1,lantibiotic immunity ABC transporter MutE/EpiE family permease subunit,other,0,0,0,0,0
+GF00451,1,1,1,1,1,lantibiotic immunity ABC transporter MutG family permease subunit,other,0,0,0,0,0
+GF00452,1,1,1,1,1,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00459,1,1,1,1,1,class I SAM-dependent methyltransferase,other,0,0,0,0,0
+GF00460,2,1,1,1,1,phage antirepressor KilAC domain-containing protein,other,0,0,0,0,0
+GF00461,1,1,1,1,1,GIY-YIG nuclease family protein,other,0,0,0,0,0
+GF00462,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00464,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00468,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00472,1,1,1,1,1,SHOCT domain-containing protein,other,0,0,0,0,0
+GF00475,1,1,1,1,1,winged helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00477,1,1,1,1,1,lantibiotic protection ABC transporter ATP-binding protein,other,0,0,0,0,0
+GF00488,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00490,1,1,1,1,1,class I SAM-dependent methyltransferase,other,0,0,0,0,0
+GF00491,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00498,1,1,1,1,1,response regulator transcription factor,other,0,0,0,0,0
+GF00500,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00507,1,1,1,1,1,recombinase family protein,other,0,0,0,0,0
+GF00516,1,1,1,1,1,HNH endonuclease signature motif containing protein,other,0,0,0,0,0
+GF00520,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00521,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00524,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00525,1,1,1,1,1,BRO-N domain-containing protein,other,0,0,0,0,0
+GF00528,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00530,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00534,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00535,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00541,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00542,1,1,1,1,1,ABC transporter ATP-binding protein,other,0,0,0,0,0
+GF00545,1,1,1,1,1,DJ-1/PfpI family protein,other,0,0,0,0,0
+GF00550,1,1,1,1,1,NUDIX hydrolase,other,0,0,0,0,0
+GF00564,1,1,1,1,1,phage scaffolding protein,other,0,0,0,0,0
+GF00570,1,1,1,1,1,TetR/AcrR family transcriptional regulator,other,0,0,0,0,0
+GF00575,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00589,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00595,2,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00599,1,1,1,1,1,TetR/AcrR family transcriptional regulator,other,0,0,0,0,0
+GF00603,1,1,1,1,1,recombinase family protein,other,0,0,0,0,0
+GF00606,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00609,1,1,1,1,1,tryptophan transporter,other,0,0,0,0,0
+GF00616,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00618,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00619,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00620,1,1,1,1,1,anaerobic ribonucleoside-triphosphate reductase activating protein,other,0,0,0,0,0
+GF00621,1,1,1,1,1,signal peptidase II,other,0,0,0,0,0
+GF00622,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00623,1,1,1,1,1,phage scaffolding protein,other,0,0,0,0,0
+GF00626,1,1,1,1,1,DUF1643 domain-containing protein,other,0,0,0,0,0
+GF00629,1,1,1,1,1,phosphoribosyltransferase family protein,other,0,0,0,0,0
+GF00630,1,1,1,1,1,PadR family transcriptional regulator,other,0,0,0,0,0
+GF00634,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00635,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00636,1,1,1,1,1,MarR family transcriptional regulator,other,0,0,0,0,0
+GF00638,1,1,1,1,1,ImmA/IrrE family metallo-endopeptidase,other,0,0,0,0,0
+GF00645,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00646,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00647,1,1,1,1,1,Pycsar system effector family protein,other,0,0,0,0,0
+GF00650,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00651,1,1,1,1,1,glycopeptide resistance protein VanZ1,other,0,0,0,0,0
+GF00662,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00663,1,1,1,1,1,prepilin-type N-terminal cleavage/methylation domain-containing protein,virulence,0,1,0,0,0
+GF00670,3,1,1,1,1,PcfB family protein,other,0,0,0,0,0
+GF00672,1,1,1,1,1,SH3 domain-containing protein,other,0,0,0,0,0
+GF00677,1,1,1,1,1,XRE family transcriptional regulator,other,0,0,0,0,0
+GF00694,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00700,1,1,1,1,1,flavodoxin domain-containing protein,other,0,0,0,0,0
+GF00702,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00707,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00712,2,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00717,1,1,1,1,1,phage tail tube protein,phage_core,0,0,0,0,1
+GF00721,1,1,1,1,1,YomW family phage-derived protein,other,0,0,0,0,0
+GF00722,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00741,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00742,1,1,1,1,1,YomN family phage-derived protein,other,0,0,0,0,0
+GF00745,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00746,1,1,1,1,1,deoxycytidylate deaminase,other,0,0,0,0,0
+GF00750,1,1,1,1,1,HNH endonuclease,other,0,0,0,0,0
+GF00754,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00768,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00774,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00779,1,1,1,1,1,RNA polymerase sigma factor,other,0,0,0,0,0
+GF00784,1,1,1,1,1,DUF3788 domain-containing protein,other,0,0,0,0,0
+GF00786,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00795,1,1,1,1,1,ATP-binding protein,other,0,0,0,0,0
+GF00797,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00799,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00805,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00807,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00808,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00809,1,1,1,1,1,phage holin family protein,phage_core,0,0,0,0,1
+GF00810,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00813,1,1,1,1,1,minor capsid protein,phage_core,0,0,0,0,1
+GF00814,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00822,1,1,1,1,1,winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00823,1,1,1,1,1,Gp15 family bacteriophage protein,other,0,0,0,0,0
+GF00826,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00829,1,1,1,1,1,SF0329 family protein,other,0,0,0,0,0
+GF00830,1,1,1,1,1,phage tail terminator protein,phage_core,0,0,0,0,1
+GF00840,1,1,1,1,1,YtxH domain-containing protein,other,0,0,0,0,0
+GF00842,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00845,1,1,1,1,1,HK97-gp10 family putative phage morphogenesis protein,other,0,0,0,0,0
+GF00853,1,1,1,1,1,BlaI/MecI/CopY family transcriptional regulator,other,0,0,0,0,0
+GF00856,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00857,1,1,1,1,1,YmfQ family protein,other,0,0,0,0,0
+GF00861,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00874,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00881,1,1,1,1,1,head-tail connector protein,phage_core,0,0,0,0,1
+GF00887,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00893,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00894,1,1,1,1,1,winged helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF00900,1,1,1,1,1,DUF3796 domain-containing protein,other,0,0,0,0,0
+GF00902,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00903,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00904,1,1,1,1,1,VOC family protein,other,0,0,0,0,0
+GF00912,1,1,1,1,1,DUF6711 family protein,other,0,0,0,0,0
+GF00913,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00918,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00919,1,1,1,1,1,dehydroquinate synthase/iron-containing alcohol dehydrogenase family protein,other,0,0,0,0,0
+GF00924,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00926,1,1,1,1,1,DUF3784 domain-containing protein,other,0,0,0,0,0
+GF00944,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00961,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00962,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00963,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00964,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00970,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00975,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00976,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00977,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00982,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF00986,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00987,1,1,1,1,1,HNH endonuclease,other,0,0,0,0,0
+GF00988,1,1,1,1,1,HU family DNA-binding protein,other,0,0,0,0,0
+GF00989,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00996,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF00997,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01001,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01002,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01017,1,1,1,1,1,PBECR3 domain-containing polyvalent protein,other,0,0,0,0,0
+GF01018,1,1,1,1,1,site-specific integrase,other,0,0,0,0,0
+GF01020,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01028,1,1,1,1,1,ArsR/SmtB family transcription factor,other,0,0,0,0,0
+GF01029,1,1,1,1,1,ImmA/IrrE family metallo-endopeptidase,other,0,0,0,0,0
+GF01035,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01041,1,1,1,1,1,molybdopterin-binding domain-containing protein,other,0,0,0,0,0
+GF01046,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01064,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01070,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01071,1,1,1,1,1,DUF4428 domain-containing protein,other,0,0,0,0,0
+GF01072,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01073,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01077,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01081,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01083,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01088,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01095,1,1,1,1,1,single-stranded DNA-binding protein,other,0,0,0,0,0
+GF01097,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01101,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01104,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01108,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01110,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01112,1,1,1,1,1,zinc-ribbon domain-containing protein,other,0,0,0,0,0
+GF01118,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01123,1,1,1,1,1,thioredoxin family protein,other,0,0,0,0,0
+GF01125,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01126,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01135,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01136,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01143,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01147,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01165,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01171,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01173,1,1,1,1,1,winged helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01179,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01190,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01191,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01192,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01195,3,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01209,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01220,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01226,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01227,1,1,1,1,1,cold-shock protein,other,0,0,0,0,0
+GF01236,2,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01238,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01239,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01245,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01248,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01249,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01253,1,1,1,1,1,helix-turn-helix transcriptional regulator,other,0,0,0,0,0
+GF01259,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0
+GF01261,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01269,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01274,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01278,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01283,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01292,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01294,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01295,1,1,1,1,1,BRO-N domain-containing protein,other,0,0,0,0,0
+GF01297,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01298,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01301,1,1,1,1,1,BlaI/MecI/CopY family transcriptional regulator,other,0,0,0,0,0
+GF01316,1,1,1,1,1,"ribbon-helix-helix protein, CopG family",other,0,0,0,0,0
+GF01319,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01323,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01324,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01325,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01330,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01336,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01341,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01344,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01347,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01349,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01353,1,1,1,1,1,cysteine-rich KTR domain-containing protein,other,0,0,0,0,0
+GF01358,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01359,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01364,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01372,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01377,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01378,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01379,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01382,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01385,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01390,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01392,1,1,1,1,1,ribbon-helix-helix domain-containing protein,other,0,0,0,0,0
+GF01393,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01394,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01406,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01408,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01417,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01418,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01423,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01428,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01429,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01430,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01435,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01438,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01440,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01441,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01443,1,1,1,1,1,hypothetical protein,other,0,0,0,0,0
+GF01445,1,1,1,1,1,IS3 family transposase,MGE,0,0,0,1,0
+GF01446,1,1,1,1,1,helix-turn-helix domain-containing protein,other,0,0,0,0,0

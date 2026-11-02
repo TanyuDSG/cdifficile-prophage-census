@@ -1,0 +1,10 @@
+test,metric,groups,statistic,p_value,note,q_value_BH
+Kruskal-Wallis,prophages_per_genome,MLST clade (n>=10),56.901,2.69848375207475e-12,,0.0
+Kruskal-Wallis,prophage_bp_percent,MLST clade (n>=10),56.913,2.6819533857690594e-12,,0.0
+Fisher exact,high_confidence_carriage,clade 1 vs other clades,1.506,0.25257305658185203,"table=[[24, 77], [24, 116]]",0.2526
+Spearman,genome_size vs n_prophages,all genomes,0.595,1.8300685381395634e-24,,0.0
+Spearman,genome_size vs prophage_percent,all genomes,0.592,3.385037391341656e-24,,0.0
+Spearman,genome_gc_percent vs n_prophages,all genomes,-0.165,0.01035666268482619,,0.0117
+Spearman,n_prophages vs prophage_percent,all genomes,0.953,3.153441020580866e-126,,0.0
+Mantel,prophage cluster Jaccard vs Mash genome distance,all genomes (n=241),0.139,0.001,"999 permutations, one-sided",0.0013
+Mantel,prophage cluster Jaccard vs Mash genome distance,clade 1 only (n=140),0.463,0.001,"999 permutations, one-sided",0.0013

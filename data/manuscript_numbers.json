@@ -1,0 +1,936 @@
+{
+  "dataset": "",
+  "genomes": 241,
+  "STs": 41,
+  "clades": 5,
+  "prophages": 399,
+  "carriage_genomes": 196,
+  "carriage_rate": 0.8133,
+  "high_confidence_carriage": 193,
+  "high_confidence_carriage_rate": 0.8008,
+  "complete_like_carriage": 182,
+  "prophages_per_genome": {
+    "n": 241,
+    "mean": 1.656,
+    "sd": 1.295,
+    "median": 1.0,
+    "min": 0.0,
+    "max": 6.0,
+    "q1": 1.0,
+    "q3": 3.0
+  },
+  "prophage_percent": {
+    "n": 241,
+    "mean": 1.771,
+    "sd": 1.275,
+    "median": 1.562,
+    "min": 0.0,
+    "max": 5.267,
+    "q1": 0.81,
+    "q3": 2.653
+  },
+  "prophage_length_bp": {
+    "n": 399,
+    "mean": 45229.892,
+    "sd": 15682.006,
+    "median": 46217.0,
+    "min": 5564.0,
+    "max": 82950.0,
+    "q1": 34924.0,
+    "q3": 57706.5
+  },
+  "prophage_gc_percent": {
+    "n": 399,
+    "mean": 29.316,
+    "sd": 2.391,
+    "median": 28.98,
+    "min": 23.39,
+    "max": 55.19,
+    "q1": 28.5,
+    "q3": 29.515
+  },
+  "high_confidence_n": 346,
+  "medium_confidence_n": 47,
+  "low_confidence_n": 6,
+  "complete_like_n": 293,
+  "typeable_n": 84,
+  "typeable_rate": 0.2105,
+  "clusters": 130,
+  "singleton_clusters": 76,
+  "singleton_cluster_rate": 0.5846,
+  "sharing": {
+    "one_genome": 76,
+    "two_to_three": 34,
+    "four_to_ten": 11,
+    "eleven_to_fifty": 9,
+    "more_than_fifty": 0
+  },
+  "shannon_cluster": 4.161,
+  "simpson_cluster": 0.969,
+  "evenness_cluster": 0.855,
+  "clusters_per_genome": {
+    "n": 241,
+    "mean": 1.635,
+    "sd": 1.288,
+    "median": 1.0,
+    "min": 0.0,
+    "max": 6.0,
+    "q1": 1.0,
+    "q3": 3.0
+  },
+  "clusters_in_multiple_clades": 9,
+  "clusters_in_multiple_STs": 23,
+  "core_clusters_95pct": 0,
+  "mantel_all": {
+    "r": 0.139,
+    "p": 0.001,
+    "n": 241
+  },
+  "mantel_clade1": {
+    "r": 0.463,
+    "p": 0.001,
+    "n": 140
+  },
+  "top_clusters": [
+    {
+      "cluster_id": "PC0001",
+      "n_genomes": 42,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0002",
+      "n_genomes": 30,
+      "n_clades": 3
+    },
+    {
+      "cluster_id": "PC0003",
+      "n_genomes": 18,
+      "n_clades": 2
+    },
+    {
+      "cluster_id": "PC0004",
+      "n_genomes": 17,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0005",
+      "n_genomes": 15,
+      "n_clades": 2
+    },
+    {
+      "cluster_id": "PC0006",
+      "n_genomes": 14,
+      "n_clades": 2
+    },
+    {
+      "cluster_id": "PC0007",
+      "n_genomes": 14,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0008",
+      "n_genomes": 12,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0009",
+      "n_genomes": 12,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0010",
+      "n_genomes": 8,
+      "n_clades": 2
+    },
+    {
+      "cluster_id": "PC0011",
+      "n_genomes": 8,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0013",
+      "n_genomes": 7,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0014",
+      "n_genomes": 7,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0015",
+      "n_genomes": 5,
+      "n_clades": 1
+    },
+    {
+      "cluster_id": "PC0016",
+      "n_genomes": 5,
+      "n_clades": 1
+    }
+  ],
+  "rarefaction_57_genomes": 51.77,
+  "rarefaction_100_genomes": 75.62,
+  "percent_clusters_at_57": 39.8,
+  "reference_phages_detected": 12,
+  "sensitivity_without_630Derm": {
+    "genomes": 240,
+    "prophages": 397,
+    "clusters": 130,
+    "singleton_clusters": 76,
+    "carriage_rate": 0.8125,
+    "prophages_per_genome": {
+      "n": 240,
+      "mean": 1.654,
+      "sd": 1.297,
+      "median": 1.0,
+      "min": 0.0,
+      "max": 6.0,
+      "q1": 1.0,
+      "q3": 3.0
+    },
+    "prophage_percent": {
+      "n": 240,
+      "mean": 1.769,
+      "sd": 1.277,
+      "median": 1.562,
+      "min": 0.0,
+      "max": 5.267,
+      "q1": 0.81,
+      "q3": 2.659
+    }
+  },
+  "clade_sizes": "140, 44, 6, 21, 30",
+  "clade_table": [
+    {
+      "mlst_clade": "1",
+      "n_genomes": 140,
+      "n_STs": 30,
+      "n_prophages": 261,
+      "mean_prophages": 1.864,
+      "carriage_rate": 0.836,
+      "high_carriage_rate": 0.829,
+      "mean_prophage_percent": 1.836,
+      "mean_clusters": 1.836,
+      "clusters_present": 97,
+      "unique_clusters": 88,
+      "shared_clusters": 9,
+      "top_clusters": "PC0002(18);PC0004(17);PC0003(15)"
+    },
+    {
+      "mlst_clade": "2",
+      "n_genomes": 44,
+      "n_STs": 2,
+      "n_prophages": 50,
+      "mean_prophages": 1.136,
+      "carriage_rate": 0.977,
+      "high_carriage_rate": 0.977,
+      "mean_prophage_percent": 1.628,
+      "mean_clusters": 1.136,
+      "clusters_present": 8,
+      "unique_clusters": 7,
+      "shared_clusters": 1,
+      "top_clusters": "PC0001(42);PC0053(2);PC0002(1)"
+    },
+    {
+      "mlst_clade": "3",
+      "n_genomes": 6,
+      "n_STs": 2,
+      "n_prophages": 17,
+      "mean_prophages": 2.833,
+      "carriage_rate": 1.0,
+      "high_carriage_rate": 0.833,
+      "mean_prophage_percent": 3.003,
+      "mean_clusters": 2.833,
+      "clusters_present": 10,
+      "unique_clusters": 8,
+      "shared_clusters": 2,
+      "top_clusters": "PC0025(3);PC0029(3);PC0031(2)"
+    },
+    {
+      "mlst_clade": "4",
+      "n_genomes": 21,
+      "n_STs": 6,
+      "n_prophages": 56,
+      "mean_prophages": 2.667,
+      "carriage_rate": 1.0,
+      "high_carriage_rate": 1.0,
+      "mean_prophage_percent": 3.134,
+      "mean_clusters": 2.667,
+      "clusters_present": 18,
+      "unique_clusters": 15,
+      "shared_clusters": 3,
+      "top_clusters": "PC0008(12);PC0006(12);PC0002(11)"
+    },
+    {
+      "mlst_clade": "5",
+      "n_genomes": 30,
+      "n_STs": 1,
+      "n_prophages": 15,
+      "mean_prophages": 0.5,
+      "carriage_rate": 0.3,
+      "high_carriage_rate": 0.267,
+      "mean_prophage_percent": 0.477,
+      "mean_clusters": 0.467,
+      "clusters_present": 7,
+      "unique_clusters": 3,
+      "shared_clusters": 4,
+      "top_clusters": "PC0018(4);PC0003(3);PC0038(2)"
+    }
+  ],
+  "metadata": {
+    "countries": 239,
+    "collection_year": 223,
+    "human": 178,
+    "dog": 23,
+    "top_countries": {
+      "South Korea": 57,
+      "Germany": 53,
+      "USA": 45,
+      "Indonesia": 17,
+      "China": 14,
+      "Ghana": 12
+    }
+  },
+  "mantel": {
+    "mantel_all": {
+      "r": 0.332,
+      "p": 0.001,
+      "n": 196,
+      "note": "999 permutations; p=0.001 is the resolution floor"
+    },
+    "mantel_year": {
+      "r": 0.023,
+      "p": 0.19,
+      "n": 179
+    },
+    "mantel_country": {
+      "r": 0.187,
+      "p": 0.001,
+      "n": 179
+    },
+    "partial_mantel_year": {
+      "r": 0.308,
+      "p": 0.001,
+      "n": 179,
+      "r_ab": 0.307,
+      "r_ac": 0.023,
+      "r_bc": -0.039
+    },
+    "partial_mantel_year_country": {
+      "r": 0.286,
+      "p": 0.001,
+      "n": 179
+    }
+  },
+  "reference_similarity": {
+    "regions": 399,
+    "regions_with_hit": 387,
+    "regions_with_hit_pct": 97.0,
+    "pident_ge90": 324,
+    "pident_ge90_pct_of_hits": 83.7,
+    "median_pident": 95.7,
+    "min_pident": 76.2,
+    "max_pident": 100.0,
+    "median_qcov_pct": 22.2,
+    "qcov_ge50": 84,
+    "qcov_ge80": 46,
+    "typeable_regions": 84,
+    "typeable_clusters": 13
+  },
+  "positive_control_630": {
+    "accession": "GCF_000009205.2",
+    "strain": "630",
+    "n_regions": 2,
+    "regions": [
+      {
+        "prophage_id": "GCF_000009205.2_pp1",
+        "length_bp": 49963,
+        "cds_count": 78,
+        "confidence": "high",
+        "cluster_id": "PC0012",
+        "complete_like": 1
+      },
+      {
+        "prophage_id": "GCF_000009205.2_pp5",
+        "length_bp": 44356,
+        "cds_count": 71,
+        "confidence": "high",
+        "cluster_id": "PC0012",
+        "complete_like": 1
+      }
+    ],
+    "two_largest_high": {
+      "first": {
+        "prophage_id": "GCF_000009205.2_pp1",
+        "length_bp": 49963,
+        "cds_count": 78,
+        "cluster_id": "PC0012"
+      },
+      "second": {
+        "prophage_id": "GCF_000009205.2_pp5",
+        "length_bp": 44356,
+        "cds_count": 71,
+        "cluster_id": "PC0012"
+      },
+      "same_cluster": true
+    }
+  },
+  "defence_overlap": {
+    "prophages": 399,
+    "keyword_defence": 283,
+    "df_complete_any": 14,
+    "df_any_hit": 15,
+    "both": 13,
+    "keyword_only": 270,
+    "df_only": 1,
+    "high_n": 346,
+    "high_keyword_defence": 275,
+    "high_df_complete_any": 14,
+    "high_df_any_hit": 15
+  },
+  "defensefinder": {
+    "proteins_searched": 363,
+    "systems_total": 18,
+    "systems_complete": 16,
+    "systems_partial": 1,
+    "prophages_with_complete_system": 14,
+    "prophages_with_any_hit": 15,
+    "prophage_complete_system_rate": 0.0351,
+    "family_counts_complete": {
+      "DefenseFinder": 11,
+      "RM": 5
+    },
+    "system_type_counts_complete": {
+      "AbiD": 1,
+      "AbiH": 1,
+      "Aristaios": 1,
+      "RM_Type_II": 4,
+      "Gao_Iet": 1,
+      "Kiwa": 1,
+      "RM_Type_I": 1,
+      "NLR": 1,
+      "PhiR47_GevAT": 1,
+      "RosmerTA": 1,
+      "SNIPE": 1,
+      "ShosTA": 1,
+      "Thoeris": 1
+    },
+    "system_type_counts_all": {
+      "AbiD": 1,
+      "AbiH": 1,
+      "Aristaios": 1,
+      "RM_Type_II": 4,
+      "Gao_Iet": 1,
+      "Kiwa": 1,
+      "Lamassu-Fam": 1,
+      "RM_Type_I": 1,
+      "NLR": 1,
+      "Other_Type_IV": 1,
+      "PhiR47_GevAT": 1,
+      "RosmerTA": 1,
+      "SNIPE": 1,
+      "ShosTA": 1,
+      "Thoeris": 1
+    }
+  },
+  "protein_network": {
+    "proteins": 25237,
+    "gene_families": 1447,
+    "prophages": 399,
+    "gene_content_clusters": 106,
+    "gene_content_singleton_clusters": 42,
+    "gene_content_singleton_rate": 0.3962,
+    "ari_vs_nucleotide_clusters": 0.812,
+    "nmi_vs_nucleotide_clusters": 0.938,
+    "jaccard_within_clade_median": 0.051,
+    "jaccard_between_clade_median": 0.041,
+    "jaccard_within_clade_mean": 0.1318,
+    "jaccard_between_clade_mean": 0.1033,
+    "fraction_pairs_jaccard_gt_0.2_within": 0.2133,
+    "fraction_pairs_jaccard_gt_0.2_between": 0.1968,
+    "mannwhitney_within_gt_between_p": 0.0008195756795429552,
+    "mantel_genome_gene_content_vs_mash": {
+      "r": 0.374,
+      "p": 0.001,
+      "n": 196
+    },
+    "mantel_genome_cluster_presence_vs_mash": {
+      "r": 0.332,
+      "p": 0.001,
+      "n": 196
+    },
+    "cross_clade_gene_families": {
+      "defence": 11,
+      "virulence": 1,
+      "AMR": 3,
+      "MGE": 4,
+      "phage_core": 117
+    },
+    "gene_families_by_category": {
+      "defence": 25,
+      "virulence": 2,
+      "AMR": 8,
+      "MGE": 8,
+      "phage_core": 188
+    },
+    "defence_cross_clade_enrichment": {
+      "odds_ratio": 0.509,
+      "p_value": 0.13299146142924959,
+      "table": [
+        [
+          11,
+          14
+        ],
+        [
+          125,
+          81
+        ]
+      ]
+    },
+    "top_widespread_gene_families": [
+      {
+        "gene_family": "GF01056",
+        "n_prophages": 260,
+        "n_genomes": 172,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "phage holin family protein"
+      },
+      {
+        "gene_family": "GF00906",
+        "n_prophages": 238,
+        "n_genomes": 167,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "hypothetical protein"
+      },
+      {
+        "gene_family": "GF00434",
+        "n_prophages": 237,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "phage terminase small subunit"
+      },
+      {
+        "gene_family": "GF00102",
+        "n_prophages": 220,
+        "n_genomes": 166,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "minor capsid protein"
+      },
+      {
+        "gene_family": "GF00118",
+        "n_prophages": 219,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "YmfQ family protein"
+      },
+      {
+        "gene_family": "GF00876",
+        "n_prophages": 219,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "hypothetical protein"
+      },
+      {
+        "gene_family": "GF01280",
+        "n_prophages": 219,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "hypothetical protein"
+      },
+      {
+        "gene_family": "GF00155",
+        "n_prophages": 218,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "phage tail sheath family protein"
+      },
+      {
+        "gene_family": "GF00244",
+        "n_prophages": 216,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "baseplate J/gp47 family protein"
+      },
+      {
+        "gene_family": "GF00773",
+        "n_prophages": 216,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "DUF2634 domain-containing protein"
+      },
+      {
+        "gene_family": "GF01042",
+        "n_prophages": 216,
+        "n_genomes": 165,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "DUF2577 domain-containing protein"
+      },
+      {
+        "gene_family": "GF00743",
+        "n_prophages": 212,
+        "n_genomes": 160,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "phage tail terminator family protein"
+      },
+      {
+        "gene_family": "GF00801",
+        "n_prophages": 183,
+        "n_genomes": 152,
+        "n_clades": 5,
+        "categories": "other",
+        "representative_product": "hypothetical protein"
+      },
+      {
+        "gene_family": "GF00361",
+        "n_prophages": 183,
+        "n_genomes": 132,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "N-acetylmuramoyl-L-alanine amidase"
+      },
+      {
+        "gene_family": "GF00317",
+        "n_prophages": 182,
+        "n_genomes": 152,
+        "n_clades": 5,
+        "categories": "phage_core",
+        "representative_product": "phage capsid protein"
+      }
+    ]
+  },
+  "cargo": {
+    "prophages": 399,
+    "high_confidence_prophages": 346,
+    "cds_total": 25480,
+    "defence_cds": 438,
+    "virulence_cds": 144,
+    "amr_cds": 24,
+    "mge_cds": 117,
+    "prophages_with_defence": 283,
+    "prophages_with_virulence": 142,
+    "prophages_with_amr": 17,
+    "prophages_with_mge": 69,
+    "defence_rate_all": 0.7093,
+    "defence_system_rate_all": 0.0927,
+    "ta_system_rate_all": 0.0927,
+    "rm_system_rate_all": 0.0,
+    "crispr_cas_rate_all": 0.0,
+    "virulence_rate_all": 0.3559,
+    "amr_rate_all": 0.0426,
+    "mge_rate_all": 0.1729,
+    "defence_rate_high": 0.7948,
+    "defence_system_rate_high": 0.1069,
+    "ta_system_rate_high": 0.1069,
+    "rm_system_rate_high": 0.0,
+    "virulence_rate_high": 0.3931,
+    "amr_rate_high": 0.0491,
+    "mge_rate_high": 0.1965,
+    "defence_category_counts": {
+      "Toxin-Antitoxin": 267,
+      "Restriction-Modification": 35,
+      "Abortive infection": 2,
+      "CBASS/cyclic-oligo": 4,
+      "Other defence": 8
+    },
+    "virulence_category_counts": {
+      "Secreted enzyme/hemolysin": 142,
+      "Adhesion/S-layer": 1
+    },
+    "amr_category_counts": {
+      "Aminoglycoside": 9,
+      "Tetracycline": 1,
+      "Chloramphenicol": 3,
+      "Macrolide/Lincosamide": 4,
+      "Multidrug efflux": 1
+    },
+    "mge_category_counts": {
+      "Transposase/IS": 54,
+      "Conjugation/Mobilization": 10,
+      "Plasmid replication": 5
+    },
+    "genome_cds_mean": 3766.47,
+    "chromosome_cds_mean": 3636.47,
+    "genome_defence_cds_mean": 44.84,
+    "chromosome_defence_cds_mean": 42.61,
+    "genome_virulence_cds_mean": 121.41,
+    "chromosome_virulence_cds_mean": 120.67,
+    "genome_amr_cds_mean": 22.41,
+    "chromosome_amr_cds_mean": 22.29,
+    "genome_mge_cds_mean": 40.27,
+    "chromosome_mge_cds_mean": 39.67,
+    "enrichment_vs_chromosome": {
+      "defence": {
+        "prophage_cds_fraction_mean": 0.01585,
+        "chromosome_cds_fraction_mean": 0.01172,
+        "median_difference": 0.00215,
+        "wilcoxon_stat": 4824.0,
+        "p_value": 1.2551597299916658e-09,
+        "n_genomes": 196,
+        "q_value_bh": 1.2551597299916658e-09
+      },
+      "virulence": {
+        "prophage_cds_fraction_mean": 0.00585,
+        "chromosome_cds_fraction_mean": 0.03319,
+        "median_difference": -0.02872,
+        "wilcoxon_stat": 10.0,
+        "p_value": 7.5794880910940755e-34,
+        "n_genomes": 196,
+        "q_value_bh": 3.0317952364376302e-33
+      },
+      "amr": {
+        "prophage_cds_fraction_mean": 0.00097,
+        "chromosome_cds_fraction_mean": 0.00613,
+        "median_difference": -0.00596,
+        "wilcoxon_stat": 665.0,
+        "p_value": 1.2613064013041043e-29,
+        "n_genomes": 196,
+        "q_value_bh": 2.5226128026082086e-29
+      },
+      "mge": {
+        "prophage_cds_fraction_mean": 0.00627,
+        "chromosome_cds_fraction_mean": 0.01088,
+        "median_difference": -0.00684,
+        "wilcoxon_stat": 4742.0,
+        "p_value": 6.568056735868594e-10,
+        "n_genomes": 196,
+        "q_value_bh": 8.757408981158125e-10
+      }
+    },
+    "defensefinder": {
+      "proteins_searched": 363,
+      "systems_total": 18,
+      "systems_complete": 16,
+      "systems_partial": 1,
+      "prophages_with_complete_system": 14,
+      "prophages_with_any_hit": 15,
+      "prophage_complete_system_rate": 0.0351,
+      "family_counts_complete": {
+        "DefenseFinder": 11,
+        "RM": 5
+      },
+      "system_type_counts_complete": {
+        "AbiD": 1,
+        "AbiH": 1,
+        "Aristaios": 1,
+        "RM_Type_II": 4,
+        "Gao_Iet": 1,
+        "Kiwa": 1,
+        "RM_Type_I": 1,
+        "NLR": 1,
+        "PhiR47_GevAT": 1,
+        "RosmerTA": 1,
+        "SNIPE": 1,
+        "ShosTA": 1,
+        "Thoeris": 1
+      },
+      "system_type_counts_all": {
+        "AbiD": 1,
+        "AbiH": 1,
+        "Aristaios": 1,
+        "RM_Type_II": 4,
+        "Gao_Iet": 1,
+        "Kiwa": 1,
+        "Lamassu-Fam": 1,
+        "RM_Type_I": 1,
+        "NLR": 1,
+        "Other_Type_IV": 1,
+        "PhiR47_GevAT": 1,
+        "RosmerTA": 1,
+        "SNIPE": 1,
+        "ShosTA": 1,
+        "Thoeris": 1
+      }
+    },
+    "defence_any_source_rate_all": 0.7118,
+    "defence_any_source_rate_high": 0.7977
+  },
+  "cargo_table": {
+    "defence": {
+      "prophage_pct": 1.58,
+      "chromosome_pct": 1.17,
+      "q": 1.2551597299916658e-09,
+      "p": 1.2551597299916658e-09,
+      "n": 196
+    },
+    "virulence": {
+      "prophage_pct": 0.58,
+      "chromosome_pct": 3.32,
+      "q": 3.0317952364376302e-33,
+      "p": 7.5794880910940755e-34,
+      "n": 196
+    },
+    "amr": {
+      "prophage_pct": 0.1,
+      "chromosome_pct": 0.61,
+      "q": 2.5226128026082086e-29,
+      "p": 1.2613064013041043e-29,
+      "n": 196
+    },
+    "mge": {
+      "prophage_pct": 0.63,
+      "chromosome_pct": 1.09,
+      "q": 8.757408981158125e-10,
+      "p": 6.568056735868594e-10,
+      "n": 196
+    }
+  },
+  "cargo_counts": {
+    "cds_total": 25480,
+    "defence_cds": 438,
+    "virulence_cds": 144,
+    "amr_cds": 24,
+    "mge_cds": 117
+  },
+  "cargo_rates": {
+    "defence_all": 70.9,
+    "defence_high": 79.5,
+    "virulence_all": 35.6,
+    "virulence_high": 39.3,
+    "amr_all": 4.3,
+    "amr_high": 4.9,
+    "mge_all": 17.3,
+    "mge_high": 19.7
+  },
+  "defence_system_rate": {
+    "df_complete_all": 3.5,
+    "df_complete_high": 4.0,
+    "df_any_all": 3.8,
+    "df_any_high": 4.3
+  },
+  "tests": [
+    {
+      "test": "Kruskal-Wallis",
+      "metric": "prophages_per_genome",
+      "groups": "MLST clade (n>=10)",
+      "statistic": 56.901,
+      "p_value": 2.6984837520747497e-12,
+      "note": NaN,
+      "q_value_BH": 0.0
+    },
+    {
+      "test": "Kruskal-Wallis",
+      "metric": "prophage_bp_percent",
+      "groups": "MLST clade (n>=10)",
+      "statistic": 56.913,
+      "p_value": 2.6819533857690598e-12,
+      "note": NaN,
+      "q_value_BH": 0.0
+    },
+    {
+      "test": "Fisher exact",
+      "metric": "high_confidence_carriage",
+      "groups": "clade 1 vs other clades",
+      "statistic": 1.506,
+      "p_value": 0.252573056581852,
+      "note": "table=[[24, 77], [24, 116]]",
+      "q_value_BH": 0.2526
+    },
+    {
+      "test": "Spearman",
+      "metric": "genome_size vs n_prophages",
+      "groups": "all genomes",
+      "statistic": 0.595,
+      "p_value": 1.8300685381395634e-24,
+      "note": NaN,
+      "q_value_BH": 0.0
+    },
+    {
+      "test": "Spearman",
+      "metric": "genome_size vs prophage_percent",
+      "groups": "all genomes",
+      "statistic": 0.592,
+      "p_value": 3.385037391341656e-24,
+      "note": NaN,
+      "q_value_BH": 0.0
+    },
+    {
+      "test": "Spearman",
+      "metric": "genome_gc_percent vs n_prophages",
+      "groups": "all genomes",
+      "statistic": -0.165,
+      "p_value": 0.0103566626848261,
+      "note": NaN,
+      "q_value_BH": 0.0117
+    },
+    {
+      "test": "Spearman",
+      "metric": "n_prophages vs prophage_percent",
+      "groups": "all genomes",
+      "statistic": 0.953,
+      "p_value": 3.153441020580866e-126,
+      "note": NaN,
+      "q_value_BH": 0.0
+    },
+    {
+      "test": "Mantel",
+      "metric": "prophage cluster Jaccard vs Mash genome distance",
+      "groups": "all genomes (n=241)",
+      "statistic": 0.139,
+      "p_value": 0.001,
+      "note": "999 permutations, one-sided",
+      "q_value_BH": 0.0013
+    },
+    {
+      "test": "Mantel",
+      "metric": "prophage cluster Jaccard vs Mash genome distance",
+      "groups": "clade 1 only (n=140)",
+      "statistic": 0.463,
+      "p_value": 0.001,
+      "note": "999 permutations, one-sided",
+      "q_value_BH": 0.0013
+    }
+  ],
+  "multi_clade_clusters": 9,
+  "region_fraction_multi_clade": 0.2431,
+  "high_confidence_subset": {
+    "regions": 346,
+    "clusters": 115,
+    "genomes": 193,
+    "singleton_clusters": 66,
+    "mean_per_genome": 1.79
+  },
+  "catalogue": {
+    "regions_phispy": 1380,
+    "regions_primary": 399,
+    "regions_excluded": 981,
+    "excluded_with_terminase": 0,
+    "excluded_with_capsid": 0,
+    "excluded_tail_only": 291,
+    "excluded_no_structural": 660,
+    "excluded_lysin_only": 30,
+    "primary_high": 346,
+    "primary_medium": 47,
+    "primary_low": 6,
+    "primary_genomes": 196,
+    "sequences_written": 399
+  },
+  "rm_systems": {
+    "calls": 5,
+    "complete_calls": 5,
+    "regions": 4,
+    "region_ids": [
+      "GCF_000009205.2_pp1",
+      "GCF_000210415.1_pp6",
+      "GCF_003481905.1_pp7",
+      "GCF_037914975.1_pp3"
+    ]
+  },
+  "all_region_sensitivity": {
+    "regions": 1380,
+    "clusters": 93,
+    "largest_cluster": 921,
+    "largest_cluster_fraction": 0.667
+  }
+}
